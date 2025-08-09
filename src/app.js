@@ -16,8 +16,12 @@ const routes = require('./routes/v1');
 const { errorConverter, errorHandler } = require('./middlewares/error');
 const ApiError = require('./utils/ApiError');
 const { blockrequestsFromSuspiciousUserAgents } = require('./middlewares/userAgent');
+const { ensureDbConnection } = require('./utils/database');
 
 const app = express();
+
+// Ensure database connection for all requests
+app.use(ensureDbConnection);
 
 if (config.env !== 'test') {
   app.use(morgan.successHandler);

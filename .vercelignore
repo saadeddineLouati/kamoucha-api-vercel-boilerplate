@@ -26,3 +26,8 @@ bin/
 public/images/
 .eslint*
 .prettier*
+src/scripts/
+src/crons/
+src/data/
+server-local.js
+vercel-scripts.json
