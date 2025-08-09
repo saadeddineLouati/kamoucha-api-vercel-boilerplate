@@ -1,0 +1,10 @@
+{
+  "name": "vercel-dev",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "vercel:dev": "vercel dev",
+    "vercel:build": "vercel build",
+    "vercel:deploy": "vercel --prod"
+  }
+}

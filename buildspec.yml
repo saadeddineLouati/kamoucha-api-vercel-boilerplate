@@ -1,0 +1,35 @@
+# Do not change version. This is the version of aws buildspec, not the version of your buldspec file.
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      nodejs: 18.x
+    commands:
+      - echo Installing npm
+      - node --version
+      - npm --version
+      - ldd --version
+  pre_build:
+    commands:
+      - echo Installing source NPM dependencies and buildspec...
+      - npm install
+artifacts:
+  files:
+    - .platform/nginx/conf.d/proxy.conf
+    - .platform/*
+    - .platform/*/*/*
+    - .husky/*
+    - src/index.js
+    - src/app.js
+    - src/*
+    - src/*/*
+    - src/*/*/*
+    - src/*/*/*/*
+    - package.json
+    - bin/*
+    - public/*
+    - public/*/*
+    - test/*
+    - test/*/*
+    - test/*/*/*

@@ -1,0 +1,6308 @@
+[
+    {
+        "category_id": "1",
+        "category_name": "Agriculture & Food",
+        "category_slug": "agriculture-food",
+        "category_parent_id": "0"
+    },
+    {
+        "category_id": "2",
+        "category_name": "Agriculture",
+        "category_slug": "agriculture",
+        "category_parent_id": "1"
+    },
+    {
+        "category_id": "3",
+        "category_name": "Agricultural Growing Media",
+        "category_slug": "agricultural-growing-media",
+        "category_parent_id": "2"
+    },
+    {
+        "category_id": "4",
+        "category_name": "Agricultural Waste",
+        "category_slug": "agricultural-waste",
+        "category_parent_id": "2"
+    },
+    {
+        "category_id": "5",
+        "category_name": "Animal Products",
+        "category_slug": "animal-products",
+        "category_parent_id": "2"
+    },
+    {
+        "category_id": "6",
+        "category_name": "Beans",
+        "category_slug": "beans",
+        "category_parent_id": "2"
+    },
+    {
+        "category_id": "7",
+        "category_name": "Cocoa Beans",
+        "category_slug": "cocoa-beans",
+        "category_parent_id": "2"
+    },
+    {
+        "category_id": "8",
+        "category_name": "Coffee Beans",
+        "category_slug": "coffee-beans",
+        "category_parent_id": "2"
+    },
+    {
+        "category_id": "9",
+        "category_name": "Farm Machinery & Equipment",
+        "category_slug": "farm-machinery-equipment",
+        "category_parent_id": "2"
+    },
+    {
+        "category_id": "10",
+        "category_name": "Feed",
+        "category_slug": "feed",
+        "category_parent_id": "2"
+    },
+    {
+        "category_id": "11",
+        "category_name": "Fresh Seafood",
+        "category_slug": "fresh-seafood",
+        "category_parent_id": "2"
+    },
+    {
+        "category_id": "12",
+        "category_name": "Fruit",
+        "category_slug": "fruit",
+        "category_parent_id": "2"
+    },
+    {
+        "category_id": "13",
+        "category_name": "Grain",
+        "category_slug": "grain",
+        "category_parent_id": "2"
+    },
+    {
+        "category_id": "14",
+        "category_name": "Herbal Cigars & Cigarettes",
+        "category_slug": "herbal-cigars-cigarettes",
+        "category_parent_id": "2"
+    },
+    {
+        "category_id": "15",
+        "category_name": "Mushrooms & Truffles",
+        "category_slug": "mushrooms-truffles",
+        "category_parent_id": "2"
+    },
+    {
+        "category_id": "16",
+        "category_name": "Nuts & Kernels",
+        "category_slug": "nuts-kernels",
+        "category_parent_id": "2"
+    },
+    {
+        "category_id": "17",
+        "category_name": "Organic Produce",
+        "category_slug": "organic-produce",
+        "category_parent_id": "2"
+    },
+    {
+        "category_id": "18",
+        "category_name": "Ornamental Plants",
+        "category_slug": "ornamental-plants",
+        "category_parent_id": "2"
+    },
+    {
+        "category_id": "19",
+        "category_name": "Other Agriculture Products",
+        "category_slug": "other-agriculture-products",
+        "category_parent_id": "2"
+    },
+    {
+        "category_id": "20",
+        "category_name": "Plant & Animal Oil",
+        "category_slug": "plant-animal-oil",
+        "category_parent_id": "2"
+    },
+    {
+        "category_id": "21",
+        "category_name": "Plant Seeds & Bulbs",
+        "category_slug": "plant-seeds-bulbs",
+        "category_parent_id": "2"
+    },
+    {
+        "category_id": "22",
+        "category_name": "Timber Raw Materials",
+        "category_slug": "timber-raw-materials",
+        "category_parent_id": "2"
+    },
+    {
+        "category_id": "23",
+        "category_name": "Vanilla Beans",
+        "category_slug": "vanilla-beans",
+        "category_parent_id": "2"
+    },
+    {
+        "category_id": "24",
+        "category_name": "Vegetables",
+        "category_slug": "vegetables",
+        "category_parent_id": "2"
+    },
+    {
+        "category_id": "25",
+        "category_name": "Food & Beverage",
+        "category_slug": "food-beverage",
+        "category_parent_id": "1"
+    },
+    {
+        "category_id": "26",
+        "category_name": "Alcoholic Beverage",
+        "category_slug": "alcoholic-beverage",
+        "category_parent_id": "25"
+    },
+    {
+        "category_id": "27",
+        "category_name": "Baby Food",
+        "category_slug": "baby-food",
+        "category_parent_id": "25"
+    },
+    {
+        "category_id": "28",
+        "category_name": "Baked Goods",
+        "category_slug": "baked-goods",
+        "category_parent_id": "25"
+    },
+    {
+        "category_id": "29",
+        "category_name": "Bean Products",
+        "category_slug": "bean-products",
+        "category_parent_id": "25"
+    },
+    {
+        "category_id": "30",
+        "category_name": "Canned Food",
+        "category_slug": "canned-food",
+        "category_parent_id": "25"
+    },
+    {
+        "category_id": "31",
+        "category_name": "Coffee",
+        "category_slug": "coffee",
+        "category_parent_id": "25"
+    },
+    {
+        "category_id": "32",
+        "category_name": "Confectionery",
+        "category_slug": "confectionery",
+        "category_parent_id": "25"
+    },
+    {
+        "category_id": "33",
+        "category_name": "Dairy",
+        "category_slug": "dairy",
+        "category_parent_id": "25"
+    },
+    {
+        "category_id": "34",
+        "category_name": "Drinking Water",
+        "category_slug": "drinking-water",
+        "category_parent_id": "25"
+    },
+    {
+        "category_id": "35",
+        "category_name": "Egg & Egg Products",
+        "category_slug": "egg-egg-products",
+        "category_parent_id": "25"
+    },
+    {
+        "category_id": "36",
+        "category_name": "Food Ingredients",
+        "category_slug": "food-ingredients",
+        "category_parent_id": "25"
+    },
+    {
+        "category_id": "37",
+        "category_name": "Fruit Products",
+        "category_slug": "fruit-products",
+        "category_parent_id": "25"
+    },
+    {
+        "category_id": "38",
+        "category_name": "Grain Products",
+        "category_slug": "grain-products",
+        "category_parent_id": "25"
+    },
+    {
+        "category_id": "39",
+        "category_name": "Honey Products",
+        "category_slug": "honey-products",
+        "category_parent_id": "25"
+    },
+    {
+        "category_id": "40",
+        "category_name": "Instant Food",
+        "category_slug": "instant-food",
+        "category_parent_id": "25"
+    },
+    {
+        "category_id": "41",
+        "category_name": "Meat & Poultry",
+        "category_slug": "meat-poultry",
+        "category_parent_id": "25"
+    },
+    {
+        "category_id": "42",
+        "category_name": "Other Food & Beverage",
+        "category_slug": "other-food-beverage",
+        "category_parent_id": "25"
+    },
+    {
+        "category_id": "43",
+        "category_name": "Seafood",
+        "category_slug": "seafood",
+        "category_parent_id": "25"
+    },
+    {
+        "category_id": "44",
+        "category_name": "Seasonings & Condiments",
+        "category_slug": "seasonings-condiments",
+        "category_parent_id": "25"
+    },
+    {
+        "category_id": "45",
+        "category_name": "Slimming Food",
+        "category_slug": "slimming-food",
+        "category_parent_id": "25"
+    },
+    {
+        "category_id": "46",
+        "category_name": "Snack Food",
+        "category_slug": "snack-food",
+        "category_parent_id": "25"
+    },
+    {
+        "category_id": "47",
+        "category_name": "Soft Drinks",
+        "category_slug": "soft-drinks",
+        "category_parent_id": "25"
+    },
+    {
+        "category_id": "48",
+        "category_name": "Tea",
+        "category_slug": "tea",
+        "category_parent_id": "25"
+    },
+    {
+        "category_id": "49",
+        "category_name": "Vegetable Products",
+        "category_slug": "vegetable-products",
+        "category_parent_id": "25"
+    },
+    {
+        "category_id": "50",
+        "category_name": "Apparel, Textiles & Accessories",
+        "category_slug": "apparel-textiles-accessories",
+        "category_parent_id": "0"
+    },
+    {
+        "category_id": "51",
+        "category_name": "Apparel",
+        "category_slug": "apparel",
+        "category_parent_id": "50"
+    },
+    {
+        "category_id": "52",
+        "category_name": "Apparel Design Services",
+        "category_slug": "apparel-design-services",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "53",
+        "category_name": "Apparel Processing Services",
+        "category_slug": "apparel-processing-services",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "54",
+        "category_name": "Apparel Stock",
+        "category_slug": "apparel-stock",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "55",
+        "category_name": "Boy's Clothing",
+        "category_slug": "boy-s-clothing",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "56",
+        "category_name": "Children's Clothing",
+        "category_slug": "children-s-clothing",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "57",
+        "category_name": "Coats",
+        "category_slug": "coats",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "58",
+        "category_name": "Costumes",
+        "category_slug": "costumes",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "59",
+        "category_name": "Dresses",
+        "category_slug": "dresses",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "60",
+        "category_name": "Ethnic Clothing",
+        "category_slug": "ethnic-clothing",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "61",
+        "category_name": "Garment Accessories",
+        "category_slug": "garment-accessories",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "62",
+        "category_name": "Girls' Clothing",
+        "category_slug": "girls-clothing",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "63",
+        "category_name": "Hoodies & Sweatshirts",
+        "category_slug": "hoodies-sweatshirts",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "64",
+        "category_name": "Hosiery",
+        "category_slug": "hosiery",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "65",
+        "category_name": "Infant & Toddlers Clothing",
+        "category_slug": "infant-toddlers-clothing",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "66",
+        "category_name": "Jackets",
+        "category_slug": "jackets",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "67",
+        "category_name": "Jeans",
+        "category_slug": "jeans",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "68",
+        "category_name": "Ladies' Blouses & Tops",
+        "category_slug": "ladies-blouses-tops",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "69",
+        "category_name": "Mannequins",
+        "category_slug": "mannequins",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "70",
+        "category_name": "Maternity Clothing",
+        "category_slug": "maternity-clothing",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "71",
+        "category_name": "Men's Clothing",
+        "category_slug": "men-s-clothing",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "72",
+        "category_name": "Men's Shirts",
+        "category_slug": "men-s-shirts",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "73",
+        "category_name": "Organic Cotton Clothing",
+        "category_slug": "organic-cotton-clothing",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "74",
+        "category_name": "Other Apparel",
+        "category_slug": "other-apparel",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "75",
+        "category_name": "Pants & Trousers",
+        "category_slug": "pants-trousers",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "76",
+        "category_name": "Plus Size Clothing",
+        "category_slug": "plus-size-clothing",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "77",
+        "category_name": "Sewing Supplies",
+        "category_slug": "sewing-supplies",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "78",
+        "category_name": "Shorts",
+        "category_slug": "shorts",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "79",
+        "category_name": "Skirts",
+        "category_slug": "skirts",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "80",
+        "category_name": "Sleepwear",
+        "category_slug": "sleepwear",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "81",
+        "category_name": "Sportswear",
+        "category_slug": "sportswear",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "82",
+        "category_name": "Stage & Dance Wear",
+        "category_slug": "stage-dance-wear",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "83",
+        "category_name": "Suits & Tuxedo",
+        "category_slug": "suits-tuxedo",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "84",
+        "category_name": "Sweaters",
+        "category_slug": "sweaters",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "85",
+        "category_name": "Tag Guns",
+        "category_slug": "tag-guns",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "86",
+        "category_name": "Tank Tops",
+        "category_slug": "tank-tops",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "87",
+        "category_name": "T-Shirts",
+        "category_slug": "t-shirts",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "88",
+        "category_name": "Underwear",
+        "category_slug": "underwear",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "89",
+        "category_name": "Uniforms",
+        "category_slug": "uniforms",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "90",
+        "category_name": "Used Clothes",
+        "category_slug": "used-clothes",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "91",
+        "category_name": "Vests & Waistcoats",
+        "category_slug": "vests-waistcoats",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "92",
+        "category_name": "Wedding Apparel & Accessories",
+        "category_slug": "wedding-apparel-accessories",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "93",
+        "category_name": "Women's Clothing",
+        "category_slug": "women-s-clothing",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "94",
+        "category_name": "Workwear",
+        "category_slug": "workwear",
+        "category_parent_id": "51"
+    },
+    {
+        "category_id": "95",
+        "category_name": "Textile & Leather Product",
+        "category_slug": "textile-leather-product",
+        "category_parent_id": "50"
+    },
+    {
+        "category_id": "96",
+        "category_name": "Down & Feather",
+        "category_slug": "down-feather",
+        "category_parent_id": "95"
+    },
+    {
+        "category_id": "97",
+        "category_name": "Fabric",
+        "category_slug": "fabric",
+        "category_parent_id": "95"
+    },
+    {
+        "category_id": "98",
+        "category_name": "Fiber",
+        "category_slug": "fiber",
+        "category_parent_id": "95"
+    },
+    {
+        "category_id": "99",
+        "category_name": "Fur",
+        "category_slug": "fur",
+        "category_parent_id": "95"
+    },
+    {
+        "category_id": "100",
+        "category_name": "Grey Fabric",
+        "category_slug": "grey-fabric",
+        "category_parent_id": "95"
+    },
+    {
+        "category_id": "101",
+        "category_name": "Home Textile",
+        "category_slug": "home-textile",
+        "category_parent_id": "95"
+    },
+    {
+        "category_id": "102",
+        "category_name": "Leather",
+        "category_slug": "leather",
+        "category_parent_id": "95"
+    },
+    {
+        "category_id": "103",
+        "category_name": "Leather Product",
+        "category_slug": "leather-product",
+        "category_parent_id": "95"
+    },
+    {
+        "category_id": "104",
+        "category_name": "Other Textiles & Leather Products",
+        "category_slug": "other-textiles-leather-products",
+        "category_parent_id": "95"
+    },
+    {
+        "category_id": "105",
+        "category_name": "Textile Accessories",
+        "category_slug": "textile-accessories",
+        "category_parent_id": "95"
+    },
+    {
+        "category_id": "106",
+        "category_name": "Textile Processing",
+        "category_slug": "textile-processing",
+        "category_parent_id": "95"
+    },
+    {
+        "category_id": "107",
+        "category_name": "Textile Stock",
+        "category_slug": "textile-stock",
+        "category_parent_id": "95"
+    },
+    {
+        "category_id": "108",
+        "category_name": "Thread",
+        "category_slug": "thread",
+        "category_parent_id": "95"
+    },
+    {
+        "category_id": "109",
+        "category_name": "Yarn",
+        "category_slug": "yarn",
+        "category_parent_id": "95"
+    },
+    {
+        "category_id": "110",
+        "category_name": "100% Cotton Fabric",
+        "category_slug": "100-cotton-fabric",
+        "category_parent_id": "95"
+    },
+    {
+        "category_id": "111",
+        "category_name": "100% Polyester Fabric",
+        "category_slug": "100-polyester-fabric",
+        "category_parent_id": "95"
+    },
+    {
+        "category_id": "112",
+        "category_name": "Bedding Set",
+        "category_slug": "bedding-set",
+        "category_parent_id": "95"
+    },
+    {
+        "category_id": "113",
+        "category_name": "Towel",
+        "category_slug": "towel",
+        "category_parent_id": "95"
+    },
+    {
+        "category_id": "114",
+        "category_name": "Chair Cover",
+        "category_slug": "chair-cover",
+        "category_parent_id": "95"
+    },
+    {
+        "category_id": "115",
+        "category_name": "Genuine Leather",
+        "category_slug": "genuine-leather",
+        "category_parent_id": "95"
+    },
+    {
+        "category_id": "116",
+        "category_name": "Fashion Accessories",
+        "category_slug": "fashion-accessories",
+        "category_parent_id": "50"
+    },
+    {
+        "category_id": "117",
+        "category_name": "Belt Accessories",
+        "category_slug": "belt-accessories",
+        "category_parent_id": "116"
+    },
+    {
+        "category_id": "118",
+        "category_name": "Belts",
+        "category_slug": "belts",
+        "category_parent_id": "116"
+    },
+    {
+        "category_id": "119",
+        "category_name": "Fashion Accessories Design Services",
+        "category_slug": "fashion-accessories-design-services",
+        "category_parent_id": "116"
+    },
+    {
+        "category_id": "120",
+        "category_name": "Fashion Accessories Processing Services",
+        "category_slug": "fashion-accessories-processing-services",
+        "category_parent_id": "116"
+    },
+    {
+        "category_id": "121",
+        "category_name": "Fashion Accessories Stock",
+        "category_slug": "fashion-accessories-stock",
+        "category_parent_id": "116"
+    },
+    {
+        "category_id": "122",
+        "category_name": "Gloves & Mittens",
+        "category_slug": "gloves-mittens",
+        "category_parent_id": "116"
+    },
+    {
+        "category_id": "123",
+        "category_name": "Headwear",
+        "category_slug": "headwear",
+        "category_parent_id": "116"
+    },
+    {
+        "category_id": "124",
+        "category_name": "Neckwear",
+        "category_slug": "neckwear",
+        "category_parent_id": "116"
+    },
+    {
+        "category_id": "125",
+        "category_name": "Scarf, Hat & Glove Sets",
+        "category_slug": "scarf-hat-glove-sets",
+        "category_parent_id": "116"
+    },
+    {
+        "category_id": "126",
+        "category_name": "Hats & Caps",
+        "category_slug": "hats-caps",
+        "category_parent_id": "116"
+    },
+    {
+        "category_id": "127",
+        "category_name": "Scarves & Shawls",
+        "category_slug": "scarves-shawls",
+        "category_parent_id": "116"
+    },
+    {
+        "category_id": "128",
+        "category_name": "Hair Accessories",
+        "category_slug": "hair-accessories",
+        "category_parent_id": "116"
+    },
+    {
+        "category_id": "129",
+        "category_name": "Genuine Leather Belts",
+        "category_slug": "genuine-leather-belts",
+        "category_parent_id": "116"
+    },
+    {
+        "category_id": "130",
+        "category_name": "Leather Gloves & Mittens",
+        "category_slug": "leather-gloves-mittens",
+        "category_parent_id": "116"
+    },
+    {
+        "category_id": "131",
+        "category_name": "Ties & Accessories",
+        "category_slug": "ties-accessories",
+        "category_parent_id": "116"
+    },
+    {
+        "category_id": "132",
+        "category_name": "Belt Buckles",
+        "category_slug": "belt-buckles",
+        "category_parent_id": "116"
+    },
+    {
+        "category_id": "133",
+        "category_name": "PU Belts",
+        "category_slug": "pu-belts",
+        "category_parent_id": "116"
+    },
+    {
+        "category_id": "134",
+        "category_name": "Belt Chains",
+        "category_slug": "belt-chains",
+        "category_parent_id": "116"
+    },
+    {
+        "category_id": "135",
+        "category_name": "Metal Belts",
+        "category_slug": "metal-belts",
+        "category_parent_id": "116"
+    },
+    {
+        "category_id": "136",
+        "category_name": "Suspenders",
+        "category_slug": "suspenders",
+        "category_parent_id": "116"
+    },
+    {
+        "category_id": "137",
+        "category_name": "Timepieces, Jewelry, Eyewear",
+        "category_slug": "timepieces-jewelry-eyewear",
+        "category_parent_id": "50"
+    },
+    {
+        "category_id": "138",
+        "category_name": "Eyewear",
+        "category_slug": "eyewear",
+        "category_parent_id": "137"
+    },
+    {
+        "category_id": "139",
+        "category_name": "Jewelry",
+        "category_slug": "jewelry",
+        "category_parent_id": "137"
+    },
+    {
+        "category_id": "140",
+        "category_name": "Watches",
+        "category_slug": "watches",
+        "category_parent_id": "137"
+    },
+    {
+        "category_id": "141",
+        "category_name": "Eyeglasses Frames",
+        "category_slug": "eyeglasses-frames",
+        "category_parent_id": "137"
+    },
+    {
+        "category_id": "142",
+        "category_name": "Sunglasses",
+        "category_slug": "sunglasses",
+        "category_parent_id": "137"
+    },
+    {
+        "category_id": "143",
+        "category_name": "Sports Eyewear",
+        "category_slug": "sports-eyewear",
+        "category_parent_id": "137"
+    },
+    {
+        "category_id": "144",
+        "category_name": "Body Jewelry",
+        "category_slug": "body-jewelry",
+        "category_parent_id": "137"
+    },
+    {
+        "category_id": "145",
+        "category_name": "Bracelets & Bangles",
+        "category_slug": "bracelets-bangles",
+        "category_parent_id": "137"
+    },
+    {
+        "category_id": "146",
+        "category_name": "Brooches",
+        "category_slug": "brooches",
+        "category_parent_id": "137"
+    },
+    {
+        "category_id": "147",
+        "category_name": "Cuff Links & Tie Clips",
+        "category_slug": "cuff-links-tie-clips",
+        "category_parent_id": "137"
+    },
+    {
+        "category_id": "148",
+        "category_name": "Earrings",
+        "category_slug": "earrings",
+        "category_parent_id": "137"
+    },
+    {
+        "category_id": "149",
+        "category_name": "Jewelry Boxes",
+        "category_slug": "jewelry-boxes",
+        "category_parent_id": "137"
+    },
+    {
+        "category_id": "150",
+        "category_name": "Jewelry Sets",
+        "category_slug": "jewelry-sets",
+        "category_parent_id": "137"
+    },
+    {
+        "category_id": "151",
+        "category_name": "Jewelry Tools & Equipment",
+        "category_slug": "jewelry-tools-equipment",
+        "category_parent_id": "137"
+    },
+    {
+        "category_id": "152",
+        "category_name": "Loose Beads",
+        "category_slug": "loose-beads",
+        "category_parent_id": "137"
+    },
+    {
+        "category_id": "153",
+        "category_name": "Loose Gemstone",
+        "category_slug": "loose-gemstone",
+        "category_parent_id": "137"
+    },
+    {
+        "category_id": "154",
+        "category_name": "Necklaces",
+        "category_slug": "necklaces",
+        "category_parent_id": "137"
+    },
+    {
+        "category_id": "155",
+        "category_name": "Pendants & Charms",
+        "category_slug": "pendants-charms",
+        "category_parent_id": "137"
+    },
+    {
+        "category_id": "156",
+        "category_name": "Rings",
+        "category_slug": "rings",
+        "category_parent_id": "137"
+    },
+    {
+        "category_id": "157",
+        "category_name": "Wristwatches",
+        "category_slug": "wristwatches",
+        "category_parent_id": "137"
+    },
+    {
+        "category_id": "158",
+        "category_name": "Auto & Transportation",
+        "category_slug": "auto-transportation",
+        "category_parent_id": "0"
+    },
+    {
+        "category_id": "159",
+        "category_name": "Automobiles & Motorcycles",
+        "category_slug": "automobiles-motorcycles",
+        "category_parent_id": "158"
+    },
+    {
+        "category_id": "160",
+        "category_name": "Air Intakes",
+        "category_slug": "air-intakes",
+        "category_parent_id": "159"
+    },
+    {
+        "category_id": "161",
+        "category_name": "ATV",
+        "category_slug": "atv",
+        "category_parent_id": "159"
+    },
+    {
+        "category_id": "162",
+        "category_name": "ATV Parts",
+        "category_slug": "atv-parts",
+        "category_parent_id": "159"
+    },
+    {
+        "category_id": "163",
+        "category_name": "Auto Chassis Parts",
+        "category_slug": "auto-chassis-parts",
+        "category_parent_id": "159"
+    },
+    {
+        "category_id": "164",
+        "category_name": "Auto Clutch",
+        "category_slug": "auto-clutch",
+        "category_parent_id": "159"
+    },
+    {
+        "category_id": "165",
+        "category_name": "Auto Electrical System",
+        "category_slug": "auto-electrical-system",
+        "category_parent_id": "159"
+    },
+    {
+        "category_id": "166",
+        "category_name": "Auto Electronics",
+        "category_slug": "auto-electronics",
+        "category_parent_id": "159"
+    },
+    {
+        "category_id": "167",
+        "category_name": "Auto Engine",
+        "category_slug": "auto-engine",
+        "category_parent_id": "159"
+    },
+    {
+        "category_id": "168",
+        "category_name": "Auto Ignition System",
+        "category_slug": "auto-ignition-system",
+        "category_parent_id": "159"
+    },
+    {
+        "category_id": "169",
+        "category_name": "Auto Steering System",
+        "category_slug": "auto-steering-system",
+        "category_parent_id": "159"
+    },
+    {
+        "category_id": "170",
+        "category_name": "Automobiles",
+        "category_slug": "automobiles",
+        "category_parent_id": "159"
+    },
+    {
+        "category_id": "171",
+        "category_name": "Axles",
+        "category_slug": "axles",
+        "category_parent_id": "159"
+    },
+    {
+        "category_id": "172",
+        "category_name": "Body Parts",
+        "category_slug": "body-parts",
+        "category_parent_id": "159"
+    },
+    {
+        "category_id": "173",
+        "category_name": "Brake System",
+        "category_slug": "brake-system",
+        "category_parent_id": "159"
+    },
+    {
+        "category_id": "174",
+        "category_name": "Car Care & Cleaning",
+        "category_slug": "car-care-cleaning",
+        "category_parent_id": "159"
+    },
+    {
+        "category_id": "175",
+        "category_name": "Cooling System",
+        "category_slug": "cooling-system",
+        "category_parent_id": "159"
+    },
+    {
+        "category_id": "176",
+        "category_name": "Crank Mechanism",
+        "category_slug": "crank-mechanism",
+        "category_parent_id": "159"
+    },
+    {
+        "category_id": "177",
+        "category_name": "Exhaust System",
+        "category_slug": "exhaust-system",
+        "category_parent_id": "159"
+    },
+    {
+        "category_id": "178",
+        "category_name": "Exterior Accessories",
+        "category_slug": "exterior-accessories",
+        "category_parent_id": "159"
+    },
+    {
+        "category_id": "179",
+        "category_name": "Fuel System",
+        "category_slug": "fuel-system",
+        "category_parent_id": "159"
+    },
+    {
+        "category_id": "180",
+        "category_name": "Interior Accessories",
+        "category_slug": "interior-accessories",
+        "category_parent_id": "159"
+    },
+    {
+        "category_id": "181",
+        "category_name": "Lubrication System",
+        "category_slug": "lubrication-system",
+        "category_parent_id": "159"
+    },
+    {
+        "category_id": "182",
+        "category_name": "Motorcycle Accessories",
+        "category_slug": "motorcycle-accessories",
+        "category_parent_id": "159"
+    },
+    {
+        "category_id": "183",
+        "category_name": "Motorcycle Parts",
+        "category_slug": "motorcycle-parts",
+        "category_parent_id": "159"
+    },
+    {
+        "category_id": "184",
+        "category_name": "Motorcycles",
+        "category_slug": "motorcycles",
+        "category_parent_id": "159"
+    },
+    {
+        "category_id": "185",
+        "category_name": "Other Auto Parts",
+        "category_slug": "other-auto-parts",
+        "category_parent_id": "159"
+    },
+    {
+        "category_id": "186",
+        "category_name": "Suspension System",
+        "category_slug": "suspension-system",
+        "category_parent_id": "159"
+    },
+    {
+        "category_id": "187",
+        "category_name": "Transmission",
+        "category_slug": "transmission",
+        "category_parent_id": "159"
+    },
+    {
+        "category_id": "188",
+        "category_name": "Tricycles",
+        "category_slug": "tricycles",
+        "category_parent_id": "159"
+    },
+    {
+        "category_id": "189",
+        "category_name": "Universal Parts",
+        "category_slug": "universal-parts",
+        "category_parent_id": "159"
+    },
+    {
+        "category_id": "190",
+        "category_name": "UTV",
+        "category_slug": "utv",
+        "category_parent_id": "159"
+    },
+    {
+        "category_id": "191",
+        "category_name": "Valve Train",
+        "category_slug": "valve-train",
+        "category_parent_id": "159"
+    },
+    {
+        "category_id": "192",
+        "category_name": "Vehicle Equipment",
+        "category_slug": "vehicle-equipment",
+        "category_parent_id": "159"
+    },
+    {
+        "category_id": "193",
+        "category_name": "Vehicle Tools",
+        "category_slug": "vehicle-tools",
+        "category_parent_id": "159"
+    },
+    {
+        "category_id": "194",
+        "category_name": "Transportation",
+        "category_slug": "transportation",
+        "category_parent_id": "158"
+    },
+    {
+        "category_id": "195",
+        "category_name": "Aircraft",
+        "category_slug": "aircraft",
+        "category_parent_id": "194"
+    },
+    {
+        "category_id": "196",
+        "category_name": "Aviation Accessories",
+        "category_slug": "aviation-accessories",
+        "category_parent_id": "194"
+    },
+    {
+        "category_id": "197",
+        "category_name": "Aviation Parts",
+        "category_slug": "aviation-parts",
+        "category_parent_id": "194"
+    },
+    {
+        "category_id": "198",
+        "category_name": "Bicycle",
+        "category_slug": "bicycle",
+        "category_parent_id": "194"
+    },
+    {
+        "category_id": "199",
+        "category_name": "Bicycle Accessories",
+        "category_slug": "bicycle-accessories",
+        "category_parent_id": "194"
+    },
+    {
+        "category_id": "200",
+        "category_name": "Bicycle Parts",
+        "category_slug": "bicycle-parts",
+        "category_parent_id": "194"
+    },
+    {
+        "category_id": "201",
+        "category_name": "Boats & Ships",
+        "category_slug": "boats-ships",
+        "category_parent_id": "194"
+    },
+    {
+        "category_id": "202",
+        "category_name": "Bus",
+        "category_slug": "bus",
+        "category_parent_id": "194"
+    },
+    {
+        "category_id": "203",
+        "category_name": "Bus Accessories",
+        "category_slug": "bus-accessories",
+        "category_parent_id": "194"
+    },
+    {
+        "category_id": "204",
+        "category_name": "Bus Parts",
+        "category_slug": "bus-parts",
+        "category_parent_id": "194"
+    },
+    {
+        "category_id": "205",
+        "category_name": "Container",
+        "category_slug": "container",
+        "category_parent_id": "194"
+    },
+    {
+        "category_id": "206",
+        "category_name": "Electric Bicycle",
+        "category_slug": "electric-bicycle",
+        "category_parent_id": "194"
+    },
+    {
+        "category_id": "207",
+        "category_name": "Electric Bicycle Part",
+        "category_slug": "electric-bicycle-part",
+        "category_parent_id": "194"
+    },
+    {
+        "category_id": "208",
+        "category_name": "Emergency Vehicles",
+        "category_slug": "emergency-vehicles",
+        "category_parent_id": "194"
+    },
+    {
+        "category_id": "209",
+        "category_name": "Golf Carts",
+        "category_slug": "golf-carts",
+        "category_parent_id": "194"
+    },
+    {
+        "category_id": "210",
+        "category_name": "Locomotive",
+        "category_slug": "locomotive",
+        "category_parent_id": "194"
+    },
+    {
+        "category_id": "211",
+        "category_name": "Marine Supplies",
+        "category_slug": "marine-supplies",
+        "category_parent_id": "194"
+    },
+    {
+        "category_id": "212",
+        "category_name": "Personal Watercraft",
+        "category_slug": "personal-watercraft",
+        "category_parent_id": "194"
+    },
+    {
+        "category_id": "213",
+        "category_name": "Railway Supplies",
+        "category_slug": "railway-supplies",
+        "category_parent_id": "194"
+    },
+    {
+        "category_id": "214",
+        "category_name": "Snowmobile",
+        "category_slug": "snowmobile",
+        "category_parent_id": "194"
+    },
+    {
+        "category_id": "215",
+        "category_name": "Special Transportation",
+        "category_slug": "special-transportation",
+        "category_parent_id": "194"
+    },
+    {
+        "category_id": "216",
+        "category_name": "Trailers",
+        "category_slug": "trailers",
+        "category_parent_id": "194"
+    },
+    {
+        "category_id": "217",
+        "category_name": "Train Carriage",
+        "category_slug": "train-carriage",
+        "category_parent_id": "194"
+    },
+    {
+        "category_id": "218",
+        "category_name": "Train Parts",
+        "category_slug": "train-parts",
+        "category_parent_id": "194"
+    },
+    {
+        "category_id": "219",
+        "category_name": "Truck",
+        "category_slug": "truck",
+        "category_parent_id": "194"
+    },
+    {
+        "category_id": "220",
+        "category_name": "Truck Accessories",
+        "category_slug": "truck-accessories",
+        "category_parent_id": "194"
+    },
+    {
+        "category_id": "221",
+        "category_name": "Truck Parts",
+        "category_slug": "truck-parts",
+        "category_parent_id": "194"
+    },
+    {
+        "category_id": "222",
+        "category_name": "Bags, Shoes & Accessories",
+        "category_slug": "bags-shoes-accessories",
+        "category_parent_id": "0"
+    },
+    {
+        "category_id": "223",
+        "category_name": "Luggage, Bags & Cases",
+        "category_slug": "luggage-bags-cases",
+        "category_parent_id": "222"
+    },
+    {
+        "category_id": "224",
+        "category_name": "Bag & Luggage Making Materials",
+        "category_slug": "bag-luggage-making-materials",
+        "category_parent_id": "223"
+    },
+    {
+        "category_id": "225",
+        "category_name": "Bag Parts & Accessories",
+        "category_slug": "bag-parts-accessories",
+        "category_parent_id": "223"
+    },
+    {
+        "category_id": "226",
+        "category_name": "Business Bags & Cases",
+        "category_slug": "business-bags-cases",
+        "category_parent_id": "223"
+    },
+    {
+        "category_id": "227",
+        "category_name": "Digital Gear & Camera Bags",
+        "category_slug": "digital-gear-camera-bags",
+        "category_parent_id": "223"
+    },
+    {
+        "category_id": "228",
+        "category_name": "Handbags & Messenger Bags",
+        "category_slug": "handbags-messenger-bags",
+        "category_parent_id": "223"
+    },
+    {
+        "category_id": "229",
+        "category_name": "Luggage & Travel Bags",
+        "category_slug": "luggage-travel-bags",
+        "category_parent_id": "223"
+    },
+    {
+        "category_id": "230",
+        "category_name": "Luggage Cart",
+        "category_slug": "luggage-cart",
+        "category_parent_id": "223"
+    },
+    {
+        "category_id": "231",
+        "category_name": "Other Luggage, Bags & Cases",
+        "category_slug": "other-luggage-bags-cases",
+        "category_parent_id": "223"
+    },
+    {
+        "category_id": "232",
+        "category_name": "Special Purpose Bags & Cases",
+        "category_slug": "special-purpose-bags-cases",
+        "category_parent_id": "223"
+    },
+    {
+        "category_id": "233",
+        "category_name": "Sports & Leisure Bags",
+        "category_slug": "sports-leisure-bags",
+        "category_parent_id": "223"
+    },
+    {
+        "category_id": "234",
+        "category_name": "Wallets & Holders",
+        "category_slug": "wallets-holders",
+        "category_parent_id": "223"
+    },
+    {
+        "category_id": "235",
+        "category_name": "Carry-on Luggage",
+        "category_slug": "carry-on-luggage",
+        "category_parent_id": "223"
+    },
+    {
+        "category_id": "236",
+        "category_name": "Luggage Sets",
+        "category_slug": "luggage-sets",
+        "category_parent_id": "223"
+    },
+    {
+        "category_id": "237",
+        "category_name": "Trolley Bags",
+        "category_slug": "trolley-bags",
+        "category_parent_id": "223"
+    },
+    {
+        "category_id": "238",
+        "category_name": "Briefcases",
+        "category_slug": "briefcases",
+        "category_parent_id": "223"
+    },
+    {
+        "category_id": "239",
+        "category_name": "Cosmetic Bags & Cases",
+        "category_slug": "cosmetic-bags-cases",
+        "category_parent_id": "223"
+    },
+    {
+        "category_id": "240",
+        "category_name": "Shopping Bags",
+        "category_slug": "shopping-bags",
+        "category_parent_id": "223"
+    },
+    {
+        "category_id": "241",
+        "category_name": "Handbags",
+        "category_slug": "handbags",
+        "category_parent_id": "223"
+    },
+    {
+        "category_id": "242",
+        "category_name": "Backpacks",
+        "category_slug": "backpacks",
+        "category_parent_id": "223"
+    },
+    {
+        "category_id": "243",
+        "category_name": "Wallets",
+        "category_slug": "wallets",
+        "category_parent_id": "223"
+    },
+    {
+        "category_id": "244",
+        "category_name": "Shoes & Accessories",
+        "category_slug": "shoes-accessories",
+        "category_parent_id": "222"
+    },
+    {
+        "category_id": "245",
+        "category_name": "Baby Shoes",
+        "category_slug": "baby-shoes",
+        "category_parent_id": "244"
+    },
+    {
+        "category_id": "246",
+        "category_name": "Boots",
+        "category_slug": "boots",
+        "category_parent_id": "244"
+    },
+    {
+        "category_id": "247",
+        "category_name": "Casual Shoes",
+        "category_slug": "casual-shoes",
+        "category_parent_id": "244"
+    },
+    {
+        "category_id": "248",
+        "category_name": "Children's Shoes",
+        "category_slug": "children-s-shoes",
+        "category_parent_id": "244"
+    },
+    {
+        "category_id": "249",
+        "category_name": "Clogs",
+        "category_slug": "clogs",
+        "category_parent_id": "244"
+    },
+    {
+        "category_id": "250",
+        "category_name": "Dance Shoes",
+        "category_slug": "dance-shoes",
+        "category_parent_id": "244"
+    },
+    {
+        "category_id": "251",
+        "category_name": "Dress Shoes",
+        "category_slug": "dress-shoes",
+        "category_parent_id": "244"
+    },
+    {
+        "category_id": "252",
+        "category_name": "Genuine Leather Shoes",
+        "category_slug": "genuine-leather-shoes",
+        "category_parent_id": "244"
+    },
+    {
+        "category_id": "253",
+        "category_name": "Men's Shoes",
+        "category_slug": "men-s-shoes",
+        "category_parent_id": "244"
+    },
+    {
+        "category_id": "254",
+        "category_name": "Other Shoes",
+        "category_slug": "other-shoes",
+        "category_parent_id": "244"
+    },
+    {
+        "category_id": "255",
+        "category_name": "Sandals",
+        "category_slug": "sandals",
+        "category_parent_id": "244"
+    },
+    {
+        "category_id": "256",
+        "category_name": "Shoe Materials",
+        "category_slug": "shoe-materials",
+        "category_parent_id": "244"
+    },
+    {
+        "category_id": "257",
+        "category_name": "Shoe Parts & Accessories",
+        "category_slug": "shoe-parts-accessories",
+        "category_parent_id": "244"
+    },
+    {
+        "category_id": "258",
+        "category_name": "Shoe Repairing Equipment",
+        "category_slug": "shoe-repairing-equipment",
+        "category_parent_id": "244"
+    },
+    {
+        "category_id": "259",
+        "category_name": "Shoes Design Services",
+        "category_slug": "shoes-design-services",
+        "category_parent_id": "244"
+    },
+    {
+        "category_id": "260",
+        "category_name": "Shoes Processing Services",
+        "category_slug": "shoes-processing-services",
+        "category_parent_id": "244"
+    },
+    {
+        "category_id": "261",
+        "category_name": "Shoes Stock",
+        "category_slug": "shoes-stock",
+        "category_parent_id": "244"
+    },
+    {
+        "category_id": "262",
+        "category_name": "Slippers",
+        "category_slug": "slippers",
+        "category_parent_id": "244"
+    },
+    {
+        "category_id": "263",
+        "category_name": "Special Purpose Shoes",
+        "category_slug": "special-purpose-shoes",
+        "category_parent_id": "244"
+    },
+    {
+        "category_id": "264",
+        "category_name": "Sports Shoes",
+        "category_slug": "sports-shoes",
+        "category_parent_id": "244"
+    },
+    {
+        "category_id": "265",
+        "category_name": "Used Shoes",
+        "category_slug": "used-shoes",
+        "category_parent_id": "244"
+    },
+    {
+        "category_id": "266",
+        "category_name": "Women's Shoes",
+        "category_slug": "women-s-shoes",
+        "category_parent_id": "244"
+    },
+    {
+        "category_id": "267",
+        "category_name": "Electronics",
+        "category_slug": "electronics",
+        "category_parent_id": "0"
+    },
+    {
+        "category_id": "268",
+        "category_name": "Computer Hardware & Software",
+        "category_slug": "computer-hardware-software",
+        "category_parent_id": "267"
+    },
+    {
+        "category_id": "269",
+        "category_name": "All-In-One PC",
+        "category_slug": "all-in-one-pc",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "270",
+        "category_name": "Barebone System",
+        "category_slug": "barebone-system",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "271",
+        "category_name": "Blank Media",
+        "category_slug": "blank-media",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "272",
+        "category_name": "Computer Cables & Connectors",
+        "category_slug": "computer-cables-connectors",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "273",
+        "category_name": "Computer Cases & Towers",
+        "category_slug": "computer-cases-towers",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "274",
+        "category_name": "Computer Cleaners",
+        "category_slug": "computer-cleaners",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "275",
+        "category_name": "Desktops",
+        "category_slug": "desktops",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "276",
+        "category_name": "Fans & Cooling",
+        "category_slug": "fans-cooling",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "277",
+        "category_name": "Firewall & VPN",
+        "category_slug": "firewall-vpn",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "278",
+        "category_name": "Floppy Drives",
+        "category_slug": "floppy-drives",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "279",
+        "category_name": "Graphics Cards",
+        "category_slug": "graphics-cards",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "280",
+        "category_name": "Hard Drives",
+        "category_slug": "hard-drives",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "281",
+        "category_name": "HDD Enclosure",
+        "category_slug": "hdd-enclosure",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "282",
+        "category_name": "Industrial Computer & Accessories",
+        "category_slug": "industrial-computer-accessories",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "283",
+        "category_name": "Keyboard Covers",
+        "category_slug": "keyboard-covers",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "284",
+        "category_name": "KVM Switches",
+        "category_slug": "kvm-switches",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "285",
+        "category_name": "Laptop Accessories",
+        "category_slug": "laptop-accessories",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "286",
+        "category_name": "Laptop Cooling Pads",
+        "category_slug": "laptop-cooling-pads",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "287",
+        "category_name": "Laptops",
+        "category_slug": "laptops",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "288",
+        "category_name": "Memory",
+        "category_slug": "memory",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "289",
+        "category_name": "Modems",
+        "category_slug": "modems",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "290",
+        "category_name": "Monitors",
+        "category_slug": "monitors",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "291",
+        "category_name": "Motherboards",
+        "category_slug": "motherboards",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "292",
+        "category_name": "Mouse & Keyboards",
+        "category_slug": "mouse-keyboards",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "293",
+        "category_name": "Mouse Pads",
+        "category_slug": "mouse-pads",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "294",
+        "category_name": "Netbooks & UMPC",
+        "category_slug": "netbooks-umpc",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "295",
+        "category_name": "Network Cabinets",
+        "category_slug": "network-cabinets",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "296",
+        "category_name": "Network Cards",
+        "category_slug": "network-cards",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "297",
+        "category_name": "Network Hubs",
+        "category_slug": "network-hubs",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "298",
+        "category_name": "Network Switches",
+        "category_slug": "network-switches",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "299",
+        "category_name": "Networking Storage",
+        "category_slug": "networking-storage",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "300",
+        "category_name": "Optical Drives",
+        "category_slug": "optical-drives",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "301",
+        "category_name": "Other Computer Accessories",
+        "category_slug": "other-computer-accessories",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "302",
+        "category_name": "Other Computer Parts",
+        "category_slug": "other-computer-parts",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "303",
+        "category_name": "Other Computer Products",
+        "category_slug": "other-computer-products",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "304",
+        "category_name": "Other Drive & Storage Devices",
+        "category_slug": "other-drive-storage-devices",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "305",
+        "category_name": "Other Networking Devices",
+        "category_slug": "other-networking-devices",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "306",
+        "category_name": "PC Stations",
+        "category_slug": "pc-stations",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "307",
+        "category_name": "PDAs",
+        "category_slug": "pdas",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "308",
+        "category_name": "Power Supply Units",
+        "category_slug": "power-supply-units",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "309",
+        "category_name": "Printers",
+        "category_slug": "printers",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "310",
+        "category_name": "Processors",
+        "category_slug": "processors",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "311",
+        "category_name": "Routers",
+        "category_slug": "routers",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "312",
+        "category_name": "Scanners",
+        "category_slug": "scanners",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "313",
+        "category_name": "Servers",
+        "category_slug": "servers",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "314",
+        "category_name": "Software",
+        "category_slug": "software",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "315",
+        "category_name": "Sound Cards",
+        "category_slug": "sound-cards",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "316",
+        "category_name": "Tablet PC",
+        "category_slug": "tablet-pc",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "317",
+        "category_name": "Tablet PC Stands",
+        "category_slug": "tablet-pc-stands",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "318",
+        "category_name": "Tablet Stylus Pen",
+        "category_slug": "tablet-stylus-pen",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "319",
+        "category_name": "USB Flash Drives",
+        "category_slug": "usb-flash-drives",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "320",
+        "category_name": "USB Gadgets",
+        "category_slug": "usb-gadgets",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "321",
+        "category_name": "USB Hubs",
+        "category_slug": "usb-hubs",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "322",
+        "category_name": "Used Computers & Accessories",
+        "category_slug": "used-computers-accessories",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "323",
+        "category_name": "Webcams",
+        "category_slug": "webcams",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "324",
+        "category_name": "Wireless Networking",
+        "category_slug": "wireless-networking",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "325",
+        "category_name": "Workstations",
+        "category_slug": "workstations",
+        "category_parent_id": "268"
+    },
+    {
+        "category_id": "326",
+        "category_name": "Home Appliance",
+        "category_slug": "home-appliance",
+        "category_parent_id": "267"
+    },
+    {
+        "category_id": "327",
+        "category_name": "Air Conditioning Appliances",
+        "category_slug": "air-conditioning-appliances",
+        "category_parent_id": "326"
+    },
+    {
+        "category_id": "328",
+        "category_name": "Cleaning Appliances",
+        "category_slug": "cleaning-appliances",
+        "category_parent_id": "326"
+    },
+    {
+        "category_id": "329",
+        "category_name": "Hand Dryers",
+        "category_slug": "hand-dryers",
+        "category_parent_id": "326"
+    },
+    {
+        "category_id": "330",
+        "category_name": "Home Appliance Parts",
+        "category_slug": "home-appliance-parts",
+        "category_parent_id": "326"
+    },
+    {
+        "category_id": "331",
+        "category_name": "Home Appliances Stocks",
+        "category_slug": "home-appliances-stocks",
+        "category_parent_id": "326"
+    },
+    {
+        "category_id": "332",
+        "category_name": "Home Heaters",
+        "category_slug": "home-heaters",
+        "category_parent_id": "326"
+    },
+    {
+        "category_id": "333",
+        "category_name": "Kitchen Appliances",
+        "category_slug": "kitchen-appliances",
+        "category_parent_id": "326"
+    },
+    {
+        "category_id": "334",
+        "category_name": "Laundry Appliances",
+        "category_slug": "laundry-appliances",
+        "category_parent_id": "326"
+    },
+    {
+        "category_id": "335",
+        "category_name": "Other Home Appliances",
+        "category_slug": "other-home-appliances",
+        "category_parent_id": "326"
+    },
+    {
+        "category_id": "336",
+        "category_name": "Refrigerators & Freezers",
+        "category_slug": "refrigerators-freezers",
+        "category_parent_id": "326"
+    },
+    {
+        "category_id": "337",
+        "category_name": "Water Heaters",
+        "category_slug": "water-heaters",
+        "category_parent_id": "326"
+    },
+    {
+        "category_id": "338",
+        "category_name": "Water Treatment Appliances",
+        "category_slug": "water-treatment-appliances",
+        "category_parent_id": "326"
+    },
+    {
+        "category_id": "339",
+        "category_name": "Wet Towel Dispensers",
+        "category_slug": "wet-towel-dispensers",
+        "category_parent_id": "326"
+    },
+    {
+        "category_id": "340",
+        "category_name": "Air Conditioners",
+        "category_slug": "air-conditioners",
+        "category_parent_id": "326"
+    },
+    {
+        "category_id": "341",
+        "category_name": "Fans",
+        "category_slug": "fans",
+        "category_parent_id": "326"
+    },
+    {
+        "category_id": "342",
+        "category_name": "Vacuum Cleaners",
+        "category_slug": "vacuum-cleaners",
+        "category_parent_id": "326"
+    },
+    {
+        "category_id": "343",
+        "category_name": "Solar Water Heaters",
+        "category_slug": "solar-water-heaters",
+        "category_parent_id": "326"
+    },
+    {
+        "category_id": "344",
+        "category_name": "Cooking Appliances",
+        "category_slug": "cooking-appliances",
+        "category_parent_id": "326"
+    },
+    {
+        "category_id": "345",
+        "category_name": "Coffee Makers",
+        "category_slug": "coffee-makers",
+        "category_parent_id": "326"
+    },
+    {
+        "category_id": "346",
+        "category_name": "Blenders",
+        "category_slug": "blenders",
+        "category_parent_id": "326"
+    },
+    {
+        "category_id": "347",
+        "category_name": "Consumer Electronic",
+        "category_slug": "consumer-electronic",
+        "category_parent_id": "267"
+    },
+    {
+        "category_id": "348",
+        "category_name": "Accessories & Parts",
+        "category_slug": "accessories-parts",
+        "category_parent_id": "347"
+    },
+    {
+        "category_id": "349",
+        "category_name": "Camera, Photo & Accessories",
+        "category_slug": "camera-photo-accessories",
+        "category_parent_id": "347"
+    },
+    {
+        "category_id": "350",
+        "category_name": "Electronic Publications",
+        "category_slug": "electronic-publications",
+        "category_parent_id": "347"
+    },
+    {
+        "category_id": "351",
+        "category_name": "Home Audio, Video & Accessories",
+        "category_slug": "home-audio-video-accessories",
+        "category_parent_id": "347"
+    },
+    {
+        "category_id": "352",
+        "category_name": "Mobile Phone & Accessories",
+        "category_slug": "mobile-phone-accessories",
+        "category_parent_id": "347"
+    },
+    {
+        "category_id": "353",
+        "category_name": "Other Consumer Electronics",
+        "category_slug": "other-consumer-electronics",
+        "category_parent_id": "347"
+    },
+    {
+        "category_id": "354",
+        "category_name": "Portable Audio, Video & Accessories",
+        "category_slug": "portable-audio-video-accessories",
+        "category_parent_id": "347"
+    },
+    {
+        "category_id": "355",
+        "category_name": "Video Game & Accessories",
+        "category_slug": "video-game-accessories",
+        "category_parent_id": "347"
+    },
+    {
+        "category_id": "356",
+        "category_name": "Mobile Phones",
+        "category_slug": "mobile-phones",
+        "category_parent_id": "347"
+    },
+    {
+        "category_id": "357",
+        "category_name": "Earphone & Headphone",
+        "category_slug": "earphone-headphone",
+        "category_parent_id": "347"
+    },
+    {
+        "category_id": "358",
+        "category_name": "Power Banks",
+        "category_slug": "power-banks",
+        "category_parent_id": "347"
+    },
+    {
+        "category_id": "359",
+        "category_name": "Digital Camera",
+        "category_slug": "digital-camera",
+        "category_parent_id": "347"
+    },
+    {
+        "category_id": "360",
+        "category_name": "Radio & TV Accessories",
+        "category_slug": "radio-tv-accessories",
+        "category_parent_id": "347"
+    },
+    {
+        "category_id": "361",
+        "category_name": "Speaker",
+        "category_slug": "speaker",
+        "category_parent_id": "347"
+    },
+    {
+        "category_id": "362",
+        "category_name": "Television",
+        "category_slug": "television",
+        "category_parent_id": "347"
+    },
+    {
+        "category_id": "363",
+        "category_name": "Cables",
+        "category_slug": "cables",
+        "category_parent_id": "347"
+    },
+    {
+        "category_id": "364",
+        "category_name": "Charger",
+        "category_slug": "charger",
+        "category_parent_id": "347"
+    },
+    {
+        "category_id": "365",
+        "category_name": "Digital Battery",
+        "category_slug": "digital-battery",
+        "category_parent_id": "347"
+    },
+    {
+        "category_id": "366",
+        "category_name": "Digital Photo Frame",
+        "category_slug": "digital-photo-frame",
+        "category_parent_id": "347"
+    },
+    {
+        "category_id": "367",
+        "category_name": "3D Glasses",
+        "category_slug": "3d-glasses",
+        "category_parent_id": "347"
+    },
+    {
+        "category_id": "368",
+        "category_name": "Security & Protection",
+        "category_slug": "security-protection",
+        "category_parent_id": "267"
+    },
+    {
+        "category_id": "369",
+        "category_name": "Access Control Systems & Products",
+        "category_slug": "access-control-systems-products",
+        "category_parent_id": "368"
+    },
+    {
+        "category_id": "370",
+        "category_name": "Alarm",
+        "category_slug": "alarm",
+        "category_parent_id": "368"
+    },
+    {
+        "category_id": "371",
+        "category_name": "CCTV Products",
+        "category_slug": "cctv-products",
+        "category_parent_id": "368"
+    },
+    {
+        "category_id": "372",
+        "category_name": "Firefighting Supplies",
+        "category_slug": "firefighting-supplies",
+        "category_parent_id": "368"
+    },
+    {
+        "category_id": "373",
+        "category_name": "Key",
+        "category_slug": "key",
+        "category_parent_id": "368"
+    },
+    {
+        "category_id": "374",
+        "category_name": "Lock Parts",
+        "category_slug": "lock-parts",
+        "category_parent_id": "368"
+    },
+    {
+        "category_id": "375",
+        "category_name": "Locks",
+        "category_slug": "locks",
+        "category_parent_id": "368"
+    },
+    {
+        "category_id": "376",
+        "category_name": "Locksmith Supplies",
+        "category_slug": "locksmith-supplies",
+        "category_parent_id": "368"
+    },
+    {
+        "category_id": "377",
+        "category_name": "Other Security & Protection Products",
+        "category_slug": "other-security-protection-products",
+        "category_parent_id": "368"
+    },
+    {
+        "category_id": "378",
+        "category_name": "Police & Military Supplies",
+        "category_slug": "police-military-supplies",
+        "category_parent_id": "368"
+    },
+    {
+        "category_id": "379",
+        "category_name": "Roadway Safety",
+        "category_slug": "roadway-safety",
+        "category_parent_id": "368"
+    },
+    {
+        "category_id": "380",
+        "category_name": "Safes",
+        "category_slug": "safes",
+        "category_parent_id": "368"
+    },
+    {
+        "category_id": "381",
+        "category_name": "Security Services",
+        "category_slug": "security-services",
+        "category_parent_id": "368"
+    },
+    {
+        "category_id": "382",
+        "category_name": "Self Defense Supplies",
+        "category_slug": "self-defense-supplies",
+        "category_parent_id": "368"
+    },
+    {
+        "category_id": "383",
+        "category_name": "Water Safety Products",
+        "category_slug": "water-safety-products",
+        "category_parent_id": "368"
+    },
+    {
+        "category_id": "384",
+        "category_name": "Workplace Safety Supplies",
+        "category_slug": "workplace-safety-supplies",
+        "category_parent_id": "368"
+    },
+    {
+        "category_id": "385",
+        "category_name": "CCTV Camera",
+        "category_slug": "cctv-camera",
+        "category_parent_id": "368"
+    },
+    {
+        "category_id": "386",
+        "category_name": "Bullet Proof Vest",
+        "category_slug": "bullet-proof-vest",
+        "category_parent_id": "368"
+    },
+    {
+        "category_id": "387",
+        "category_name": "Alcohol Tester",
+        "category_slug": "alcohol-tester",
+        "category_parent_id": "368"
+    },
+    {
+        "category_id": "388",
+        "category_name": "Fire Alarm",
+        "category_slug": "fire-alarm",
+        "category_parent_id": "368"
+    },
+    {
+        "category_id": "389",
+        "category_name": "Electrical Equipment, Components & Telecoms",
+        "category_slug": "electrical-equipment-components-telecoms",
+        "category_parent_id": "0"
+    },
+    {
+        "category_id": "390",
+        "category_name": "Electrical Equipment & Supplies",
+        "category_slug": "electrical-equipment-supplies",
+        "category_parent_id": "389"
+    },
+    {
+        "category_id": "391",
+        "category_name": "Batteries",
+        "category_slug": "batteries",
+        "category_parent_id": "390"
+    },
+    {
+        "category_id": "392",
+        "category_name": "Circuit Breakers",
+        "category_slug": "circuit-breakers",
+        "category_parent_id": "390"
+    },
+    {
+        "category_id": "393",
+        "category_name": "Connectors & Terminals",
+        "category_slug": "connectors-terminals",
+        "category_parent_id": "390"
+    },
+    {
+        "category_id": "394",
+        "category_name": "Contactors",
+        "category_slug": "contactors",
+        "category_parent_id": "390"
+    },
+    {
+        "category_id": "395",
+        "category_name": "Electrical Plugs & Sockets",
+        "category_slug": "electrical-plugs-sockets",
+        "category_parent_id": "390"
+    },
+    {
+        "category_id": "396",
+        "category_name": "Electronic & Instrument Enclosures",
+        "category_slug": "electronic-instrument-enclosures",
+        "category_parent_id": "390"
+    },
+    {
+        "category_id": "397",
+        "category_name": "Fuse Components",
+        "category_slug": "fuse-components",
+        "category_parent_id": "390"
+    },
+    {
+        "category_id": "398",
+        "category_name": "Fuses",
+        "category_slug": "fuses",
+        "category_parent_id": "390"
+    },
+    {
+        "category_id": "399",
+        "category_name": "Generators",
+        "category_slug": "generators",
+        "category_parent_id": "390"
+    },
+    {
+        "category_id": "400",
+        "category_name": "Other Electrical Equipment",
+        "category_slug": "other-electrical-equipment",
+        "category_parent_id": "390"
+    },
+    {
+        "category_id": "401",
+        "category_name": "Power Accessories",
+        "category_slug": "power-accessories",
+        "category_parent_id": "390"
+    },
+    {
+        "category_id": "402",
+        "category_name": "Power Distribution Equipment",
+        "category_slug": "power-distribution-equipment",
+        "category_parent_id": "390"
+    },
+    {
+        "category_id": "403",
+        "category_name": "Power Supplies",
+        "category_slug": "power-supplies",
+        "category_parent_id": "390"
+    },
+    {
+        "category_id": "404",
+        "category_name": "Professional Audio, Video & Lighting",
+        "category_slug": "professional-audio-video-lighting",
+        "category_parent_id": "390"
+    },
+    {
+        "category_id": "405",
+        "category_name": "Relays",
+        "category_slug": "relays",
+        "category_parent_id": "390"
+    },
+    {
+        "category_id": "406",
+        "category_name": "Switches",
+        "category_slug": "switches",
+        "category_parent_id": "390"
+    },
+    {
+        "category_id": "407",
+        "category_name": "Transformers",
+        "category_slug": "transformers",
+        "category_parent_id": "390"
+    },
+    {
+        "category_id": "408",
+        "category_name": "Wires, Cables & Cable Assemblies",
+        "category_slug": "wires-cables-cable-assemblies",
+        "category_parent_id": "390"
+    },
+    {
+        "category_id": "409",
+        "category_name": "Wiring Accessories",
+        "category_slug": "wiring-accessories",
+        "category_parent_id": "390"
+    },
+    {
+        "category_id": "410",
+        "category_name": "Solar Cells, Solar Panel",
+        "category_slug": "solar-cells-solar-panel",
+        "category_parent_id": "390"
+    },
+    {
+        "category_id": "411",
+        "category_name": "Electronic Compnents & Supplies",
+        "category_slug": "electronic-compnents-supplies",
+        "category_parent_id": "389"
+    },
+    {
+        "category_id": "412",
+        "category_name": "Active Components",
+        "category_slug": "active-components",
+        "category_parent_id": "411"
+    },
+    {
+        "category_id": "413",
+        "category_name": "EL Products",
+        "category_slug": "el-products",
+        "category_parent_id": "411"
+    },
+    {
+        "category_id": "414",
+        "category_name": "Electronic Accessories & Supplies",
+        "category_slug": "electronic-accessories-supplies",
+        "category_parent_id": "411"
+    },
+    {
+        "category_id": "415",
+        "category_name": "Electronic Data Systems",
+        "category_slug": "electronic-data-systems",
+        "category_parent_id": "411"
+    },
+    {
+        "category_id": "416",
+        "category_name": "Electronic Signs",
+        "category_slug": "electronic-signs",
+        "category_parent_id": "411"
+    },
+    {
+        "category_id": "417",
+        "category_name": "Electronics Production Machinery",
+        "category_slug": "electronics-production-machinery",
+        "category_parent_id": "411"
+    },
+    {
+        "category_id": "418",
+        "category_name": "Electronics Stocks",
+        "category_slug": "electronics-stocks",
+        "category_parent_id": "411"
+    },
+    {
+        "category_id": "419",
+        "category_name": "Optoelectronic Displays",
+        "category_slug": "optoelectronic-displays",
+        "category_parent_id": "411"
+    },
+    {
+        "category_id": "420",
+        "category_name": "Other Electronic Components",
+        "category_slug": "other-electronic-components",
+        "category_parent_id": "411"
+    },
+    {
+        "category_id": "421",
+        "category_name": "Passive Components",
+        "category_slug": "passive-components",
+        "category_parent_id": "411"
+    },
+    {
+        "category_id": "422",
+        "category_name": "LCD Modules",
+        "category_slug": "lcd-modules",
+        "category_parent_id": "411"
+    },
+    {
+        "category_id": "423",
+        "category_name": "LED Displays",
+        "category_slug": "led-displays",
+        "category_parent_id": "411"
+    },
+    {
+        "category_id": "424",
+        "category_name": "PCB & PCBA",
+        "category_slug": "pcb-pcba",
+        "category_parent_id": "411"
+    },
+    {
+        "category_id": "425",
+        "category_name": "Keypads & Keyboards",
+        "category_slug": "keypads-keyboards",
+        "category_parent_id": "411"
+    },
+    {
+        "category_id": "426",
+        "category_name": "Insulation Materials & Elements",
+        "category_slug": "insulation-materials-elements",
+        "category_parent_id": "411"
+    },
+    {
+        "category_id": "427",
+        "category_name": "Integrated Circuits",
+        "category_slug": "integrated-circuits",
+        "category_parent_id": "411"
+    },
+    {
+        "category_id": "428",
+        "category_name": "Diodes",
+        "category_slug": "diodes",
+        "category_parent_id": "411"
+    },
+    {
+        "category_id": "429",
+        "category_name": "Transistors",
+        "category_slug": "transistors",
+        "category_parent_id": "411"
+    },
+    {
+        "category_id": "430",
+        "category_name": "Capacitors",
+        "category_slug": "capacitors",
+        "category_parent_id": "411"
+    },
+    {
+        "category_id": "431",
+        "category_name": "Resistors",
+        "category_slug": "resistors",
+        "category_parent_id": "411"
+    },
+    {
+        "category_id": "432",
+        "category_name": "Telecommunication",
+        "category_slug": "telecommunication",
+        "category_parent_id": "389"
+    },
+    {
+        "category_id": "433",
+        "category_name": "Antennas for Communications",
+        "category_slug": "antennas-for-communications",
+        "category_parent_id": "432"
+    },
+    {
+        "category_id": "434",
+        "category_name": "Communication Equipment",
+        "category_slug": "communication-equipment",
+        "category_parent_id": "432"
+    },
+    {
+        "category_id": "435",
+        "category_name": "Telephones & Accessories",
+        "category_slug": "telephones-accessories",
+        "category_parent_id": "432"
+    },
+    {
+        "category_id": "436",
+        "category_name": "Communication Cables",
+        "category_slug": "communication-cables",
+        "category_parent_id": "432"
+    },
+    {
+        "category_id": "437",
+        "category_name": "Fiber Optic Equipment",
+        "category_slug": "fiber-optic-equipment",
+        "category_parent_id": "432"
+    },
+    {
+        "category_id": "438",
+        "category_name": "Fixed Wireless Terminals",
+        "category_slug": "fixed-wireless-terminals",
+        "category_parent_id": "432"
+    },
+    {
+        "category_id": "439",
+        "category_name": "WiFi Finder",
+        "category_slug": "wifi-finder",
+        "category_parent_id": "432"
+    },
+    {
+        "category_id": "440",
+        "category_name": "Telephone Accessories",
+        "category_slug": "telephone-accessories",
+        "category_parent_id": "432"
+    },
+    {
+        "category_id": "441",
+        "category_name": "Corded Telephones",
+        "category_slug": "corded-telephones",
+        "category_parent_id": "432"
+    },
+    {
+        "category_id": "442",
+        "category_name": "Cordless Telephones",
+        "category_slug": "cordless-telephones",
+        "category_parent_id": "432"
+    },
+    {
+        "category_id": "443",
+        "category_name": "Wireless Networking Equipment",
+        "category_slug": "wireless-networking-equipment",
+        "category_parent_id": "432"
+    },
+    {
+        "category_id": "444",
+        "category_name": "Telephone Headsets",
+        "category_slug": "telephone-headsets",
+        "category_parent_id": "432"
+    },
+    {
+        "category_id": "445",
+        "category_name": "VoIP Products",
+        "category_slug": "voip-products",
+        "category_parent_id": "432"
+    },
+    {
+        "category_id": "446",
+        "category_name": "Repeater",
+        "category_slug": "repeater",
+        "category_parent_id": "432"
+    },
+    {
+        "category_id": "447",
+        "category_name": "PBX",
+        "category_slug": "pbx",
+        "category_parent_id": "432"
+    },
+    {
+        "category_id": "448",
+        "category_name": "Telecom Parts",
+        "category_slug": "telecom-parts",
+        "category_parent_id": "432"
+    },
+    {
+        "category_id": "449",
+        "category_name": "Phone Cards",
+        "category_slug": "phone-cards",
+        "category_parent_id": "432"
+    },
+    {
+        "category_id": "450",
+        "category_name": "Telephone Cords",
+        "category_slug": "telephone-cords",
+        "category_parent_id": "432"
+    },
+    {
+        "category_id": "451",
+        "category_name": "Answering Machines",
+        "category_slug": "answering-machines",
+        "category_parent_id": "432"
+    },
+    {
+        "category_id": "452",
+        "category_name": "Caller ID Boxes",
+        "category_slug": "caller-id-boxes",
+        "category_parent_id": "432"
+    },
+    {
+        "category_id": "453",
+        "category_name": "Gifts, Sports & Toys",
+        "category_slug": "gifts-sports-toys",
+        "category_parent_id": "0"
+    },
+    {
+        "category_id": "454",
+        "category_name": "Sports & Entertainment",
+        "category_slug": "sports-entertainment",
+        "category_parent_id": "453"
+    },
+    {
+        "category_id": "455",
+        "category_name": "Amusement Park",
+        "category_slug": "amusement-park",
+        "category_parent_id": "454"
+    },
+    {
+        "category_id": "456",
+        "category_name": "Artificial Grass & Sports Flooring",
+        "category_slug": "artificial-grass-sports-flooring",
+        "category_parent_id": "454"
+    },
+    {
+        "category_id": "457",
+        "category_name": "Fitness & Body Building",
+        "category_slug": "fitness-body-building",
+        "category_parent_id": "454"
+    },
+    {
+        "category_id": "458",
+        "category_name": "Gambling",
+        "category_slug": "gambling",
+        "category_parent_id": "454"
+    },
+    {
+        "category_id": "459",
+        "category_name": "Golf",
+        "category_slug": "golf",
+        "category_parent_id": "454"
+    },
+    {
+        "category_id": "460",
+        "category_name": "Indoor Sports",
+        "category_slug": "indoor-sports",
+        "category_parent_id": "454"
+    },
+    {
+        "category_id": "461",
+        "category_name": "Musical Instruments",
+        "category_slug": "musical-instruments",
+        "category_parent_id": "454"
+    },
+    {
+        "category_id": "462",
+        "category_name": "Other Sports & Entertainment Products",
+        "category_slug": "other-sports-entertainment-products",
+        "category_parent_id": "454"
+    },
+    {
+        "category_id": "463",
+        "category_name": "Outdoor Sports",
+        "category_slug": "outdoor-sports",
+        "category_parent_id": "454"
+    },
+    {
+        "category_id": "464",
+        "category_name": "Sports Gloves",
+        "category_slug": "sports-gloves",
+        "category_parent_id": "454"
+    },
+    {
+        "category_id": "465",
+        "category_name": "Sports Safety",
+        "category_slug": "sports-safety",
+        "category_parent_id": "454"
+    },
+    {
+        "category_id": "466",
+        "category_name": "Sports Souvenirs",
+        "category_slug": "sports-souvenirs",
+        "category_parent_id": "454"
+    },
+    {
+        "category_id": "467",
+        "category_name": "Team Sports",
+        "category_slug": "team-sports",
+        "category_parent_id": "454"
+    },
+    {
+        "category_id": "468",
+        "category_name": "Tennis",
+        "category_slug": "tennis",
+        "category_parent_id": "454"
+    },
+    {
+        "category_id": "469",
+        "category_name": "Water Sports",
+        "category_slug": "water-sports",
+        "category_parent_id": "454"
+    },
+    {
+        "category_id": "470",
+        "category_name": "Winter Sports",
+        "category_slug": "winter-sports",
+        "category_parent_id": "454"
+    },
+    {
+        "category_id": "471",
+        "category_name": "Camping & Hiking",
+        "category_slug": "camping-hiking",
+        "category_parent_id": "454"
+    },
+    {
+        "category_id": "472",
+        "category_name": "Scooters",
+        "category_slug": "scooters",
+        "category_parent_id": "454"
+    },
+    {
+        "category_id": "473",
+        "category_name": "Gym Equipment",
+        "category_slug": "gym-equipment",
+        "category_parent_id": "454"
+    },
+    {
+        "category_id": "474",
+        "category_name": "Swimming & Diving",
+        "category_slug": "swimming-diving",
+        "category_parent_id": "454"
+    },
+    {
+        "category_id": "475",
+        "category_name": "Gifts & Crafts",
+        "category_slug": "gifts-crafts",
+        "category_parent_id": "453"
+    },
+    {
+        "category_id": "476",
+        "category_name": "Antique Imitation Crafts",
+        "category_slug": "antique-imitation-crafts",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "477",
+        "category_name": "Art & Collectible",
+        "category_slug": "art-collectible",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "478",
+        "category_name": "Artificial Crafts",
+        "category_slug": "artificial-crafts",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "479",
+        "category_name": "Arts & Crafts Stocks",
+        "category_slug": "arts-crafts-stocks",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "480",
+        "category_name": "Bamboo Crafts",
+        "category_slug": "bamboo-crafts",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "481",
+        "category_name": "Carving Crafts",
+        "category_slug": "carving-crafts",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "482",
+        "category_name": "Clay Crafts",
+        "category_slug": "clay-crafts",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "483",
+        "category_name": "Cross Stitch",
+        "category_slug": "cross-stitch",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "484",
+        "category_name": "Crystal Crafts",
+        "category_slug": "crystal-crafts",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "485",
+        "category_name": "Embroidery Crafts",
+        "category_slug": "embroidery-crafts",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "486",
+        "category_name": "Feng Shui Crafts",
+        "category_slug": "feng-shui-crafts",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "487",
+        "category_name": "Festive & Party Supplies",
+        "category_slug": "festive-party-supplies",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "488",
+        "category_name": "Flags, Banners & Accessories",
+        "category_slug": "flags-banners-accessories",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "489",
+        "category_name": "Folk Crafts",
+        "category_slug": "folk-crafts",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "490",
+        "category_name": "Gift Sets",
+        "category_slug": "gift-sets",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "491",
+        "category_name": "Glass Crafts",
+        "category_slug": "glass-crafts",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "492",
+        "category_name": "Holiday Gifts",
+        "category_slug": "holiday-gifts",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "493",
+        "category_name": "Home Decoration",
+        "category_slug": "home-decoration",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "494",
+        "category_name": "Key Chains",
+        "category_slug": "key-chains",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "495",
+        "category_name": "Knitting & Crocheting",
+        "category_slug": "knitting-crocheting",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "496",
+        "category_name": "Lacquerware",
+        "category_slug": "lacquerware",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "497",
+        "category_name": "Lanyard",
+        "category_slug": "lanyard",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "498",
+        "category_name": "Leather Crafts",
+        "category_slug": "leather-crafts",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "499",
+        "category_name": "Metal Crafts",
+        "category_slug": "metal-crafts",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "500",
+        "category_name": "Money Boxes",
+        "category_slug": "money-boxes",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "501",
+        "category_name": "Music Boxes",
+        "category_slug": "music-boxes",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "502",
+        "category_name": "Natural Crafts",
+        "category_slug": "natural-crafts",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "503",
+        "category_name": "Nautical Crafts",
+        "category_slug": "nautical-crafts",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "504",
+        "category_name": "Other Gifts & Crafts",
+        "category_slug": "other-gifts-crafts",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "505",
+        "category_name": "Paper Crafts",
+        "category_slug": "paper-crafts",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "506",
+        "category_name": "Plastic Crafts",
+        "category_slug": "plastic-crafts",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "507",
+        "category_name": "Pottery & Enamel",
+        "category_slug": "pottery-enamel",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "508",
+        "category_name": "Religious Crafts",
+        "category_slug": "religious-crafts",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "509",
+        "category_name": "Resin Crafts",
+        "category_slug": "resin-crafts",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "510",
+        "category_name": "Sculptures",
+        "category_slug": "sculptures",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "511",
+        "category_name": "Semi-Precious Stone Crafts",
+        "category_slug": "semi-precious-stone-crafts",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "512",
+        "category_name": "Souvenirs",
+        "category_slug": "souvenirs",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "513",
+        "category_name": "Stickers",
+        "category_slug": "stickers",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "514",
+        "category_name": "Stone Crafts",
+        "category_slug": "stone-crafts",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "515",
+        "category_name": "Textile & Fabric Crafts",
+        "category_slug": "textile-fabric-crafts",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "516",
+        "category_name": "Wedding Decorations & Gifts",
+        "category_slug": "wedding-decorations-gifts",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "517",
+        "category_name": "Wicker Crafts",
+        "category_slug": "wicker-crafts",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "518",
+        "category_name": "Wood Crafts",
+        "category_slug": "wood-crafts",
+        "category_parent_id": "475"
+    },
+    {
+        "category_id": "519",
+        "category_name": "Toys & Hobbies",
+        "category_slug": "toys-hobbies",
+        "category_parent_id": "453"
+    },
+    {
+        "category_id": "520",
+        "category_name": "Action Figure",
+        "category_slug": "action-figure",
+        "category_parent_id": "519"
+    },
+    {
+        "category_id": "521",
+        "category_name": "Baby Toys",
+        "category_slug": "baby-toys",
+        "category_parent_id": "519"
+    },
+    {
+        "category_id": "522",
+        "category_name": "Balloons",
+        "category_slug": "balloons",
+        "category_parent_id": "519"
+    },
+    {
+        "category_id": "523",
+        "category_name": "Candy Toys",
+        "category_slug": "candy-toys",
+        "category_parent_id": "519"
+    },
+    {
+        "category_id": "524",
+        "category_name": "Classic Toys",
+        "category_slug": "classic-toys",
+        "category_parent_id": "519"
+    },
+    {
+        "category_id": "525",
+        "category_name": "Dolls",
+        "category_slug": "dolls",
+        "category_parent_id": "519"
+    },
+    {
+        "category_id": "526",
+        "category_name": "Educational Toys",
+        "category_slug": "educational-toys",
+        "category_parent_id": "519"
+    },
+    {
+        "category_id": "527",
+        "category_name": "Electronic Toys",
+        "category_slug": "electronic-toys",
+        "category_parent_id": "519"
+    },
+    {
+        "category_id": "528",
+        "category_name": "Glass Marbles",
+        "category_slug": "glass-marbles",
+        "category_parent_id": "519"
+    },
+    {
+        "category_id": "529",
+        "category_name": "Inflatable Toys",
+        "category_slug": "inflatable-toys",
+        "category_parent_id": "519"
+    },
+    {
+        "category_id": "530",
+        "category_name": "Light-Up Toys",
+        "category_slug": "light-up-toys",
+        "category_parent_id": "519"
+    },
+    {
+        "category_id": "531",
+        "category_name": "Noise Maker",
+        "category_slug": "noise-maker",
+        "category_parent_id": "519"
+    },
+    {
+        "category_id": "532",
+        "category_name": "Other Toys & Hobbies",
+        "category_slug": "other-toys-hobbies",
+        "category_parent_id": "519"
+    },
+    {
+        "category_id": "533",
+        "category_name": "Outdoor Toys & Structures",
+        "category_slug": "outdoor-toys-structures",
+        "category_parent_id": "519"
+    },
+    {
+        "category_id": "534",
+        "category_name": "Plastic Toys",
+        "category_slug": "plastic-toys",
+        "category_parent_id": "519"
+    },
+    {
+        "category_id": "535",
+        "category_name": "Pretend Play & Preschool",
+        "category_slug": "pretend-play-preschool",
+        "category_parent_id": "519"
+    },
+    {
+        "category_id": "536",
+        "category_name": "Solar Toys",
+        "category_slug": "solar-toys",
+        "category_parent_id": "519"
+    },
+    {
+        "category_id": "537",
+        "category_name": "Toy Accessories",
+        "category_slug": "toy-accessories",
+        "category_parent_id": "519"
+    },
+    {
+        "category_id": "538",
+        "category_name": "Toy Animal",
+        "category_slug": "toy-animal",
+        "category_parent_id": "519"
+    },
+    {
+        "category_id": "539",
+        "category_name": "Toy Guns",
+        "category_slug": "toy-guns",
+        "category_parent_id": "519"
+    },
+    {
+        "category_id": "540",
+        "category_name": "Toy Parts",
+        "category_slug": "toy-parts",
+        "category_parent_id": "519"
+    },
+    {
+        "category_id": "541",
+        "category_name": "Toy Robots",
+        "category_slug": "toy-robots",
+        "category_parent_id": "519"
+    },
+    {
+        "category_id": "542",
+        "category_name": "Toy Vehicle",
+        "category_slug": "toy-vehicle",
+        "category_parent_id": "519"
+    },
+    {
+        "category_id": "543",
+        "category_name": "Wind Up Toys",
+        "category_slug": "wind-up-toys",
+        "category_parent_id": "519"
+    },
+    {
+        "category_id": "544",
+        "category_name": "Wooden Toys",
+        "category_slug": "wooden-toys",
+        "category_parent_id": "519"
+    },
+    {
+        "category_id": "545",
+        "category_name": "Health & Beauty",
+        "category_slug": "health-beauty",
+        "category_parent_id": "0"
+    },
+    {
+        "category_id": "546",
+        "category_name": "Health & Medical",
+        "category_slug": "health-medical",
+        "category_parent_id": "545"
+    },
+    {
+        "category_id": "547",
+        "category_name": "Animal Extract",
+        "category_slug": "animal-extract",
+        "category_parent_id": "546"
+    },
+    {
+        "category_id": "548",
+        "category_name": "Plant Extracts",
+        "category_slug": "plant-extracts",
+        "category_parent_id": "546"
+    },
+    {
+        "category_id": "549",
+        "category_name": "Body Weight",
+        "category_slug": "body-weight",
+        "category_parent_id": "546"
+    },
+    {
+        "category_id": "550",
+        "category_name": "Health Care Supplement",
+        "category_slug": "health-care-supplement",
+        "category_parent_id": "546"
+    },
+    {
+        "category_id": "551",
+        "category_name": "Health Care Supplies",
+        "category_slug": "health-care-supplies",
+        "category_parent_id": "546"
+    },
+    {
+        "category_id": "552",
+        "category_name": "Crude Medicine",
+        "category_slug": "crude-medicine",
+        "category_parent_id": "546"
+    },
+    {
+        "category_id": "553",
+        "category_name": "Prepared Drugs In Pieces",
+        "category_slug": "prepared-drugs-in-pieces",
+        "category_parent_id": "546"
+    },
+    {
+        "category_id": "554",
+        "category_name": "Traditional Patented Medicines",
+        "category_slug": "traditional-patented-medicines",
+        "category_parent_id": "546"
+    },
+    {
+        "category_id": "555",
+        "category_name": "Body Fluid-Processing & Circulation Devices",
+        "category_slug": "body-fluid-processing-circulation-devices",
+        "category_parent_id": "546"
+    },
+    {
+        "category_id": "556",
+        "category_name": "Clinical Analytical Instruments",
+        "category_slug": "clinical-analytical-instruments",
+        "category_parent_id": "546"
+    },
+    {
+        "category_id": "557",
+        "category_name": "Dental Equipment",
+        "category_slug": "dental-equipment",
+        "category_parent_id": "546"
+    },
+    {
+        "category_id": "558",
+        "category_name": "Emergency & Clinics Apparatuses",
+        "category_slug": "emergency-clinics-apparatuses",
+        "category_parent_id": "546"
+    },
+    {
+        "category_id": "559",
+        "category_name": "Equipments of Traditional Chinese Medicine",
+        "category_slug": "equipments-of-traditional-chinese-medicine",
+        "category_parent_id": "546"
+    },
+    {
+        "category_id": "560",
+        "category_name": "General Assay & Diagnostic Apparatuses",
+        "category_slug": "general-assay-diagnostic-apparatuses",
+        "category_parent_id": "546"
+    },
+    {
+        "category_id": "561",
+        "category_name": "Implants & Interventional Materials",
+        "category_slug": "implants-interventional-materials",
+        "category_parent_id": "546"
+    },
+    {
+        "category_id": "562",
+        "category_name": "Medical Consumable",
+        "category_slug": "medical-consumable",
+        "category_parent_id": "546"
+    },
+    {
+        "category_id": "563",
+        "category_name": "Medical Cryogenic Equipments",
+        "category_slug": "medical-cryogenic-equipments",
+        "category_parent_id": "546"
+    },
+    {
+        "category_id": "564",
+        "category_name": "Medical Software",
+        "category_slug": "medical-software",
+        "category_parent_id": "546"
+    },
+    {
+        "category_id": "565",
+        "category_name": "Physical Therapy Equipments",
+        "category_slug": "physical-therapy-equipments",
+        "category_parent_id": "546"
+    },
+    {
+        "category_id": "566",
+        "category_name": "Radiology Equipment & Accessories",
+        "category_slug": "radiology-equipment-accessories",
+        "category_parent_id": "546"
+    },
+    {
+        "category_id": "567",
+        "category_name": "Sterilization Equipments",
+        "category_slug": "sterilization-equipments",
+        "category_parent_id": "546"
+    },
+    {
+        "category_id": "568",
+        "category_name": "Surgical Instrument",
+        "category_slug": "surgical-instrument",
+        "category_parent_id": "546"
+    },
+    {
+        "category_id": "569",
+        "category_name": "Ultrasonic, Optical, Electronic Equipment",
+        "category_slug": "ultrasonic-optical-electronic-equipment",
+        "category_parent_id": "546"
+    },
+    {
+        "category_id": "570",
+        "category_name": "Ward Nursing Equipments",
+        "category_slug": "ward-nursing-equipments",
+        "category_parent_id": "546"
+    },
+    {
+        "category_id": "571",
+        "category_name": "Medicines",
+        "category_slug": "medicines",
+        "category_parent_id": "546"
+    },
+    {
+        "category_id": "572",
+        "category_name": "Veterinary Instrument",
+        "category_slug": "veterinary-instrument",
+        "category_parent_id": "546"
+    },
+    {
+        "category_id": "573",
+        "category_name": "Veterinary Medicine",
+        "category_slug": "veterinary-medicine",
+        "category_parent_id": "546"
+    },
+    {
+        "category_id": "574",
+        "category_name": "Beauty & Personal Care",
+        "category_slug": "beauty-personal-care",
+        "category_parent_id": "545"
+    },
+    {
+        "category_id": "575",
+        "category_name": "Baby Care",
+        "category_slug": "baby-care",
+        "category_parent_id": "574"
+    },
+    {
+        "category_id": "576",
+        "category_name": "Bath Supplies",
+        "category_slug": "bath-supplies",
+        "category_parent_id": "574"
+    },
+    {
+        "category_id": "577",
+        "category_name": "Beauty Equipment",
+        "category_slug": "beauty-equipment",
+        "category_parent_id": "574"
+    },
+    {
+        "category_id": "578",
+        "category_name": "Body Art",
+        "category_slug": "body-art",
+        "category_parent_id": "574"
+    },
+    {
+        "category_id": "579",
+        "category_name": "Breast Care",
+        "category_slug": "breast-care",
+        "category_parent_id": "574"
+    },
+    {
+        "category_id": "580",
+        "category_name": "Feminine Hygiene",
+        "category_slug": "feminine-hygiene",
+        "category_parent_id": "574"
+    },
+    {
+        "category_id": "581",
+        "category_name": "Fragrance & Deodorant",
+        "category_slug": "fragrance-deodorant",
+        "category_parent_id": "574"
+    },
+    {
+        "category_id": "582",
+        "category_name": "Hair Care",
+        "category_slug": "hair-care",
+        "category_parent_id": "574"
+    },
+    {
+        "category_id": "583",
+        "category_name": "Hair Extensions & Wigs",
+        "category_slug": "hair-extensions-wigs",
+        "category_parent_id": "574"
+    },
+    {
+        "category_id": "584",
+        "category_name": "Hair Salon Equipment",
+        "category_slug": "hair-salon-equipment",
+        "category_parent_id": "574"
+    },
+    {
+        "category_id": "585",
+        "category_name": "Makeup",
+        "category_slug": "makeup",
+        "category_parent_id": "574"
+    },
+    {
+        "category_id": "586",
+        "category_name": "Makeup Tools",
+        "category_slug": "makeup-tools",
+        "category_parent_id": "574"
+    },
+    {
+        "category_id": "587",
+        "category_name": "Men Care",
+        "category_slug": "men-care",
+        "category_parent_id": "574"
+    },
+    {
+        "category_id": "588",
+        "category_name": "Nail Supplies",
+        "category_slug": "nail-supplies",
+        "category_parent_id": "574"
+    },
+    {
+        "category_id": "589",
+        "category_name": "Oral Hygiene",
+        "category_slug": "oral-hygiene",
+        "category_parent_id": "574"
+    },
+    {
+        "category_id": "590",
+        "category_name": "Other Beauty & Personal Care Products",
+        "category_slug": "other-beauty-personal-care-products",
+        "category_parent_id": "574"
+    },
+    {
+        "category_id": "591",
+        "category_name": "Sanitary Paper",
+        "category_slug": "sanitary-paper",
+        "category_parent_id": "574"
+    },
+    {
+        "category_id": "592",
+        "category_name": "Shaving & Hair Removal",
+        "category_slug": "shaving-hair-removal",
+        "category_parent_id": "574"
+    },
+    {
+        "category_id": "593",
+        "category_name": "Skin Care",
+        "category_slug": "skin-care",
+        "category_parent_id": "574"
+    },
+    {
+        "category_id": "594",
+        "category_name": "Skin Care Tool",
+        "category_slug": "skin-care-tool",
+        "category_parent_id": "574"
+    },
+    {
+        "category_id": "595",
+        "category_name": "Spa Supplies",
+        "category_slug": "spa-supplies",
+        "category_parent_id": "574"
+    },
+    {
+        "category_id": "596",
+        "category_name": "Weight Loss",
+        "category_slug": "weight-loss",
+        "category_parent_id": "574"
+    },
+    {
+        "category_id": "597",
+        "category_name": "Home, Lights & Construction",
+        "category_slug": "home-lights-construction",
+        "category_parent_id": "0"
+    },
+    {
+        "category_id": "598",
+        "category_name": "Construction & Real Estate",
+        "category_slug": "construction-real-estate",
+        "category_parent_id": "597"
+    },
+    {
+        "category_id": "599",
+        "category_name": "Aluminum Composite Panels",
+        "category_slug": "aluminum-composite-panels",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "600",
+        "category_name": "Balustrades & Handrails",
+        "category_slug": "balustrades-handrails",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "601",
+        "category_name": "Bathroom",
+        "category_slug": "bathroom",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "602",
+        "category_name": "Boards",
+        "category_slug": "boards",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "603",
+        "category_name": "Building Glass",
+        "category_slug": "building-glass",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "604",
+        "category_name": "Ceilings",
+        "category_slug": "ceilings",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "605",
+        "category_name": "Corner Guards",
+        "category_slug": "corner-guards",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "606",
+        "category_name": "Countertops,Vanity Tops & Table Tops",
+        "category_slug": "countertops-vanity-tops-table-tops",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "607",
+        "category_name": "Curtain Walls & Accessories",
+        "category_slug": "curtain-walls-accessories",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "608",
+        "category_name": "Decorative Films",
+        "category_slug": "decorative-films",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "609",
+        "category_name": "Door & Window Accessories",
+        "category_slug": "door-window-accessories",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "610",
+        "category_name": "Doors & Windows",
+        "category_slug": "doors-windows",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "611",
+        "category_name": "Earthwork Products",
+        "category_slug": "earthwork-products",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "612",
+        "category_name": "Elevators & Elevator Parts",
+        "category_slug": "elevators-elevator-parts",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "613",
+        "category_name": "Escalators & Escalator Parts",
+        "category_slug": "escalators-escalator-parts",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "614",
+        "category_name": "Faucets, Mixers & Taps",
+        "category_slug": "faucets-mixers-taps",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "615",
+        "category_name": "Fiberglass Wall Meshes",
+        "category_slug": "fiberglass-wall-meshes",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "616",
+        "category_name": "Fireplaces,Stoves",
+        "category_slug": "fireplaces-stoves",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "617",
+        "category_name": "Fireproofing Materials",
+        "category_slug": "fireproofing-materials",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "618",
+        "category_name": "Floor Heating Systems & Parts",
+        "category_slug": "floor-heating-systems-parts",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "619",
+        "category_name": "Flooring & Accessories",
+        "category_slug": "flooring-accessories",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "620",
+        "category_name": "Formwork",
+        "category_slug": "formwork",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "621",
+        "category_name": "Gates",
+        "category_slug": "gates",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "622",
+        "category_name": "Heat Insulation Materials",
+        "category_slug": "heat-insulation-materials",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "623",
+        "category_name": "HVAC Systems & Parts",
+        "category_slug": "hvac-systems-parts",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "624",
+        "category_name": "Kitchen",
+        "category_slug": "kitchen",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "625",
+        "category_name": "Ladders & Scaffoldings",
+        "category_slug": "ladders-scaffoldings",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "626",
+        "category_name": "Landscaping Stone",
+        "category_slug": "landscaping-stone",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "627",
+        "category_name": "Masonry Materials",
+        "category_slug": "masonry-materials",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "628",
+        "category_name": "Metal Building Materials",
+        "category_slug": "metal-building-materials",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "629",
+        "category_name": "Mosaics",
+        "category_slug": "mosaics",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "630",
+        "category_name": "Mouldings",
+        "category_slug": "mouldings",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "631",
+        "category_name": "Multifunctional Materials",
+        "category_slug": "multifunctional-materials",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "632",
+        "category_name": "Other Construction & Real Estate",
+        "category_slug": "other-construction-real-estate",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "633",
+        "category_name": "Plastic Building Materials",
+        "category_slug": "plastic-building-materials",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "634",
+        "category_name": "Quarry Stone & Slabs",
+        "category_slug": "quarry-stone-slabs",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "635",
+        "category_name": "Real Estate",
+        "category_slug": "real-estate",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "636",
+        "category_name": "Soundproofing Materials",
+        "category_slug": "soundproofing-materials",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "637",
+        "category_name": "Stairs & Stair Parts",
+        "category_slug": "stairs-stair-parts",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "638",
+        "category_name": "Stone Carvings and Sculptures",
+        "category_slug": "stone-carvings-and-sculptures",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "639",
+        "category_name": "Sunrooms & Glass Houses",
+        "category_slug": "sunrooms-glass-houses",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "640",
+        "category_name": "Tiles & Accessories",
+        "category_slug": "tiles-accessories",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "641",
+        "category_name": "Timber",
+        "category_slug": "timber",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "642",
+        "category_name": "Tombstones and Monuments",
+        "category_slug": "tombstones-and-monuments",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "643",
+        "category_name": "Wallpapers\/Wall Coating",
+        "category_slug": "wallpapers-wall-coating",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "644",
+        "category_name": "Waterproofing Materials",
+        "category_slug": "waterproofing-materials",
+        "category_parent_id": "598"
+    },
+    {
+        "category_id": "645",
+        "category_name": "Home & Garden",
+        "category_slug": "home-garden",
+        "category_parent_id": "597"
+    },
+    {
+        "category_id": "646",
+        "category_name": "Bakeware",
+        "category_slug": "bakeware",
+        "category_parent_id": "645"
+    },
+    {
+        "category_id": "647",
+        "category_name": "Barware",
+        "category_slug": "barware",
+        "category_parent_id": "645"
+    },
+    {
+        "category_id": "648",
+        "category_name": "Bathroom Products",
+        "category_slug": "bathroom-products",
+        "category_parent_id": "645"
+    },
+    {
+        "category_id": "649",
+        "category_name": "Cooking Tools",
+        "category_slug": "cooking-tools",
+        "category_parent_id": "645"
+    },
+    {
+        "category_id": "650",
+        "category_name": "Cookware",
+        "category_slug": "cookware",
+        "category_parent_id": "645"
+    },
+    {
+        "category_id": "651",
+        "category_name": "Garden Supplies",
+        "category_slug": "garden-supplies",
+        "category_parent_id": "645"
+    },
+    {
+        "category_id": "652",
+        "category_name": "Home Decor",
+        "category_slug": "home-decor",
+        "category_parent_id": "645"
+    },
+    {
+        "category_id": "653",
+        "category_name": "Home Storage & Organization",
+        "category_slug": "home-storage-organization",
+        "category_parent_id": "645"
+    },
+    {
+        "category_id": "654",
+        "category_name": "Household Chemicals",
+        "category_slug": "household-chemicals",
+        "category_parent_id": "645"
+    },
+    {
+        "category_id": "655",
+        "category_name": "Household Cleaning Tools & Accessories",
+        "category_slug": "household-cleaning-tools-accessories",
+        "category_parent_id": "645"
+    },
+    {
+        "category_id": "656",
+        "category_name": "Household Sundries",
+        "category_slug": "household-sundries",
+        "category_parent_id": "645"
+    },
+    {
+        "category_id": "657",
+        "category_name": "Kitchen Knives & Accessories",
+        "category_slug": "kitchen-knives-accessories",
+        "category_parent_id": "645"
+    },
+    {
+        "category_id": "658",
+        "category_name": "Laundry Products",
+        "category_slug": "laundry-products",
+        "category_parent_id": "645"
+    },
+    {
+        "category_id": "659",
+        "category_name": "Pet Products",
+        "category_slug": "pet-products",
+        "category_parent_id": "645"
+    },
+    {
+        "category_id": "660",
+        "category_name": "Tableware",
+        "category_slug": "tableware",
+        "category_parent_id": "645"
+    },
+    {
+        "category_id": "661",
+        "category_name": "Dinnerware",
+        "category_slug": "dinnerware",
+        "category_parent_id": "645"
+    },
+    {
+        "category_id": "662",
+        "category_name": "Drinkware",
+        "category_slug": "drinkware",
+        "category_parent_id": "645"
+    },
+    {
+        "category_id": "663",
+        "category_name": "Baby Supplies & Products",
+        "category_slug": "baby-supplies-products",
+        "category_parent_id": "645"
+    },
+    {
+        "category_id": "664",
+        "category_name": "Rain Gear",
+        "category_slug": "rain-gear",
+        "category_parent_id": "645"
+    },
+    {
+        "category_id": "665",
+        "category_name": "Lighters & Smoking Accessories",
+        "category_slug": "lighters-smoking-accessories",
+        "category_parent_id": "645"
+    },
+    {
+        "category_id": "666",
+        "category_name": "Lights & Lighting",
+        "category_slug": "lights-lighting",
+        "category_parent_id": "597"
+    },
+    {
+        "category_id": "667",
+        "category_name": "Emergency Lighting",
+        "category_slug": "emergency-lighting",
+        "category_parent_id": "666"
+    },
+    {
+        "category_id": "668",
+        "category_name": "Holiday Lighting",
+        "category_slug": "holiday-lighting",
+        "category_parent_id": "666"
+    },
+    {
+        "category_id": "669",
+        "category_name": "Indoor Lighting",
+        "category_slug": "indoor-lighting",
+        "category_parent_id": "666"
+    },
+    {
+        "category_id": "670",
+        "category_name": "LED Lighting",
+        "category_slug": "led-lighting",
+        "category_parent_id": "666"
+    },
+    {
+        "category_id": "671",
+        "category_name": "Lighting Accessories",
+        "category_slug": "lighting-accessories",
+        "category_parent_id": "666"
+    },
+    {
+        "category_id": "672",
+        "category_name": "Lighting Bulbs & Tubes",
+        "category_slug": "lighting-bulbs-tubes",
+        "category_parent_id": "666"
+    },
+    {
+        "category_id": "673",
+        "category_name": "Other Lights & Lighting Products",
+        "category_slug": "other-lights-lighting-products",
+        "category_parent_id": "666"
+    },
+    {
+        "category_id": "674",
+        "category_name": "Outdoor Lighting",
+        "category_slug": "outdoor-lighting",
+        "category_parent_id": "666"
+    },
+    {
+        "category_id": "675",
+        "category_name": "Professional Lighting",
+        "category_slug": "professional-lighting",
+        "category_parent_id": "666"
+    },
+    {
+        "category_id": "676",
+        "category_name": "LED Residential Lighting",
+        "category_slug": "led-residential-lighting",
+        "category_parent_id": "666"
+    },
+    {
+        "category_id": "677",
+        "category_name": "LED Outdoor Lighting",
+        "category_slug": "led-outdoor-lighting",
+        "category_parent_id": "666"
+    },
+    {
+        "category_id": "678",
+        "category_name": "Chandeliers & Pendant Lights",
+        "category_slug": "chandeliers-pendant-lights",
+        "category_parent_id": "666"
+    },
+    {
+        "category_id": "679",
+        "category_name": "Ceiling Lights",
+        "category_slug": "ceiling-lights",
+        "category_parent_id": "666"
+    },
+    {
+        "category_id": "680",
+        "category_name": "Crystal Lights",
+        "category_slug": "crystal-lights",
+        "category_parent_id": "666"
+    },
+    {
+        "category_id": "681",
+        "category_name": "Stage Lights",
+        "category_slug": "stage-lights",
+        "category_parent_id": "666"
+    },
+    {
+        "category_id": "682",
+        "category_name": "Street Lights",
+        "category_slug": "street-lights",
+        "category_parent_id": "666"
+    },
+    {
+        "category_id": "683",
+        "category_name": "Energy Saving & Fluorescent",
+        "category_slug": "energy-saving-fluorescent",
+        "category_parent_id": "666"
+    },
+    {
+        "category_id": "684",
+        "category_name": "LED Landscape Lamps",
+        "category_slug": "led-landscape-lamps",
+        "category_parent_id": "666"
+    },
+    {
+        "category_id": "685",
+        "category_name": "LED Professional Lighting",
+        "category_slug": "led-professional-lighting",
+        "category_parent_id": "666"
+    },
+    {
+        "category_id": "686",
+        "category_name": "LED Encapsulation Series",
+        "category_slug": "led-encapsulation-series",
+        "category_parent_id": "666"
+    },
+    {
+        "category_id": "687",
+        "category_name": "Furniture",
+        "category_slug": "furniture",
+        "category_parent_id": "597"
+    },
+    {
+        "category_id": "688",
+        "category_name": "Antique Furniture",
+        "category_slug": "antique-furniture",
+        "category_parent_id": "687"
+    },
+    {
+        "category_id": "689",
+        "category_name": "Baby Furniture",
+        "category_slug": "baby-furniture",
+        "category_parent_id": "687"
+    },
+    {
+        "category_id": "690",
+        "category_name": "Bamboo Furniture",
+        "category_slug": "bamboo-furniture",
+        "category_parent_id": "687"
+    },
+    {
+        "category_id": "691",
+        "category_name": "Children Furniture",
+        "category_slug": "children-furniture",
+        "category_parent_id": "687"
+    },
+    {
+        "category_id": "692",
+        "category_name": "Commercial Furniture",
+        "category_slug": "commercial-furniture",
+        "category_parent_id": "687"
+    },
+    {
+        "category_id": "693",
+        "category_name": "Folding Furniture",
+        "category_slug": "folding-furniture",
+        "category_parent_id": "687"
+    },
+    {
+        "category_id": "694",
+        "category_name": "Furniture Accessories",
+        "category_slug": "furniture-accessories",
+        "category_parent_id": "687"
+    },
+    {
+        "category_id": "695",
+        "category_name": "Furniture Hardware",
+        "category_slug": "furniture-hardware",
+        "category_parent_id": "687"
+    },
+    {
+        "category_id": "696",
+        "category_name": "Furniture Parts",
+        "category_slug": "furniture-parts",
+        "category_parent_id": "687"
+    },
+    {
+        "category_id": "697",
+        "category_name": "Glass Furniture",
+        "category_slug": "glass-furniture",
+        "category_parent_id": "687"
+    },
+    {
+        "category_id": "698",
+        "category_name": "Home Furniture",
+        "category_slug": "home-furniture",
+        "category_parent_id": "687"
+    },
+    {
+        "category_id": "699",
+        "category_name": "Inflatable Furniture",
+        "category_slug": "inflatable-furniture",
+        "category_parent_id": "687"
+    },
+    {
+        "category_id": "700",
+        "category_name": "Metal Furniture",
+        "category_slug": "metal-furniture",
+        "category_parent_id": "687"
+    },
+    {
+        "category_id": "701",
+        "category_name": "Other Furniture",
+        "category_slug": "other-furniture",
+        "category_parent_id": "687"
+    },
+    {
+        "category_id": "702",
+        "category_name": "Outdoor Furniture",
+        "category_slug": "outdoor-furniture",
+        "category_parent_id": "687"
+    },
+    {
+        "category_id": "703",
+        "category_name": "Plastic Furniture",
+        "category_slug": "plastic-furniture",
+        "category_parent_id": "687"
+    },
+    {
+        "category_id": "704",
+        "category_name": "Rattan \/ Wicker Furniture",
+        "category_slug": "rattan-wicker-furniture",
+        "category_parent_id": "687"
+    },
+    {
+        "category_id": "705",
+        "category_name": "Wood Furniture",
+        "category_slug": "wood-furniture",
+        "category_parent_id": "687"
+    },
+    {
+        "category_id": "706",
+        "category_name": "Living Room Furniture",
+        "category_slug": "living-room-furniture",
+        "category_parent_id": "687"
+    },
+    {
+        "category_id": "707",
+        "category_name": "Bedroom Furniture",
+        "category_slug": "bedroom-furniture",
+        "category_parent_id": "687"
+    },
+    {
+        "category_id": "708",
+        "category_name": "Machinery, Industrial Parts & Tools",
+        "category_slug": "machinery-industrial-parts-tools",
+        "category_parent_id": "0"
+    },
+    {
+        "category_id": "709",
+        "category_name": "Machinery",
+        "category_slug": "machinery",
+        "category_parent_id": "708"
+    },
+    {
+        "category_id": "710",
+        "category_name": "Agriculture Machinery & Equipment",
+        "category_slug": "agriculture-machinery-equipment",
+        "category_parent_id": "709"
+    },
+    {
+        "category_id": "711",
+        "category_name": "Apparel & Textile Machinery",
+        "category_slug": "apparel-textile-machinery",
+        "category_parent_id": "709"
+    },
+    {
+        "category_id": "712",
+        "category_name": "Building Material Machinery",
+        "category_slug": "building-material-machinery",
+        "category_parent_id": "709"
+    },
+    {
+        "category_id": "713",
+        "category_name": "Chemical Machinery & Equipment",
+        "category_slug": "chemical-machinery-equipment",
+        "category_parent_id": "709"
+    },
+    {
+        "category_id": "714",
+        "category_name": "Electronic Products Machinery",
+        "category_slug": "electronic-products-machinery",
+        "category_parent_id": "709"
+    },
+    {
+        "category_id": "715",
+        "category_name": "Energy & Mineral Equipment",
+        "category_slug": "energy-mineral-equipment",
+        "category_parent_id": "709"
+    },
+    {
+        "category_id": "716",
+        "category_name": "Engineering & Construction Machinery",
+        "category_slug": "engineering-construction-machinery",
+        "category_parent_id": "709"
+    },
+    {
+        "category_id": "717",
+        "category_name": "Food & Beverage Machinery",
+        "category_slug": "food-beverage-machinery",
+        "category_parent_id": "709"
+    },
+    {
+        "category_id": "718",
+        "category_name": "General Industrial Equipment",
+        "category_slug": "general-industrial-equipment",
+        "category_parent_id": "709"
+    },
+    {
+        "category_id": "719",
+        "category_name": "Home Product Making Machinery",
+        "category_slug": "home-product-making-machinery",
+        "category_parent_id": "709"
+    },
+    {
+        "category_id": "720",
+        "category_name": "Industry Laser Equipment",
+        "category_slug": "industry-laser-equipment",
+        "category_parent_id": "709"
+    },
+    {
+        "category_id": "721",
+        "category_name": "Machine Tool Equipment",
+        "category_slug": "machine-tool-equipment",
+        "category_parent_id": "709"
+    },
+    {
+        "category_id": "722",
+        "category_name": "Metal & Metallurgy Machinery",
+        "category_slug": "metal-metallurgy-machinery",
+        "category_parent_id": "709"
+    },
+    {
+        "category_id": "723",
+        "category_name": "Other Machinery & Industry Equipment",
+        "category_slug": "other-machinery-industry-equipment",
+        "category_parent_id": "709"
+    },
+    {
+        "category_id": "724",
+        "category_name": "Packaging Machine",
+        "category_slug": "packaging-machine",
+        "category_parent_id": "709"
+    },
+    {
+        "category_id": "725",
+        "category_name": "Paper Production Machinery",
+        "category_slug": "paper-production-machinery",
+        "category_parent_id": "709"
+    },
+    {
+        "category_id": "726",
+        "category_name": "Pharmaceutical Machinery",
+        "category_slug": "pharmaceutical-machinery",
+        "category_parent_id": "709"
+    },
+    {
+        "category_id": "727",
+        "category_name": "Plastic & Rubber Machinery",
+        "category_slug": "plastic-rubber-machinery",
+        "category_parent_id": "709"
+    },
+    {
+        "category_id": "728",
+        "category_name": "Printing Machine",
+        "category_slug": "printing-machine",
+        "category_parent_id": "709"
+    },
+    {
+        "category_id": "729",
+        "category_name": "Refrigeration & Heat Exchange Equipment",
+        "category_slug": "refrigeration-heat-exchange-equipment",
+        "category_parent_id": "709"
+    },
+    {
+        "category_id": "730",
+        "category_name": "Used Machinery & Equipment",
+        "category_slug": "used-machinery-equipment",
+        "category_parent_id": "709"
+    },
+    {
+        "category_id": "731",
+        "category_name": "Woodworking Machinery",
+        "category_slug": "woodworking-machinery",
+        "category_parent_id": "709"
+    },
+    {
+        "category_id": "732",
+        "category_name": "Industrial Parts & Fabrication Services",
+        "category_slug": "industrial-parts-fabrication-services",
+        "category_parent_id": "708"
+    },
+    {
+        "category_id": "733",
+        "category_name": "Ball Valves",
+        "category_slug": "ball-valves",
+        "category_parent_id": "732"
+    },
+    {
+        "category_id": "734",
+        "category_name": "Bearing Accessory",
+        "category_slug": "bearing-accessory",
+        "category_parent_id": "732"
+    },
+    {
+        "category_id": "735",
+        "category_name": "Bearings",
+        "category_slug": "bearings",
+        "category_parent_id": "732"
+    },
+    {
+        "category_id": "736",
+        "category_name": "Brass Valves",
+        "category_slug": "brass-valves",
+        "category_parent_id": "732"
+    },
+    {
+        "category_id": "737",
+        "category_name": "Butterfly Valves",
+        "category_slug": "butterfly-valves",
+        "category_parent_id": "732"
+    },
+    {
+        "category_id": "738",
+        "category_name": "Ceramic Valves",
+        "category_slug": "ceramic-valves",
+        "category_parent_id": "732"
+    },
+    {
+        "category_id": "739",
+        "category_name": "Check Valves",
+        "category_slug": "check-valves",
+        "category_parent_id": "732"
+    },
+    {
+        "category_id": "740",
+        "category_name": "Custom Fabrication Services",
+        "category_slug": "custom-fabrication-services",
+        "category_parent_id": "732"
+    },
+    {
+        "category_id": "741",
+        "category_name": "Diaphragm Valves",
+        "category_slug": "diaphragm-valves",
+        "category_parent_id": "732"
+    },
+    {
+        "category_id": "742",
+        "category_name": "Filter Supplies",
+        "category_slug": "filter-supplies",
+        "category_parent_id": "732"
+    },
+    {
+        "category_id": "743",
+        "category_name": "Flanges",
+        "category_slug": "flanges",
+        "category_parent_id": "732"
+    },
+    {
+        "category_id": "744",
+        "category_name": "Gaskets",
+        "category_slug": "gaskets",
+        "category_parent_id": "732"
+    },
+    {
+        "category_id": "745",
+        "category_name": "Gate Valves",
+        "category_slug": "gate-valves",
+        "category_parent_id": "732"
+    },
+    {
+        "category_id": "746",
+        "category_name": "General Mechanical Components Design Services",
+        "category_slug": "general-mechanical-components-design-services",
+        "category_parent_id": "732"
+    },
+    {
+        "category_id": "747",
+        "category_name": "General Mechanical Components Stock",
+        "category_slug": "general-mechanical-components-stock",
+        "category_parent_id": "732"
+    },
+    {
+        "category_id": "748",
+        "category_name": "Industrial Brake",
+        "category_slug": "industrial-brake",
+        "category_parent_id": "732"
+    },
+    {
+        "category_id": "749",
+        "category_name": "Linear Motion",
+        "category_slug": "linear-motion",
+        "category_parent_id": "732"
+    },
+    {
+        "category_id": "750",
+        "category_name": "Machine Tools Accessory",
+        "category_slug": "machine-tools-accessory",
+        "category_parent_id": "732"
+    },
+    {
+        "category_id": "751",
+        "category_name": "Manual Valves",
+        "category_slug": "manual-valves",
+        "category_parent_id": "732"
+    },
+    {
+        "category_id": "752",
+        "category_name": "Motor Parts",
+        "category_slug": "motor-parts",
+        "category_parent_id": "732"
+    },
+    {
+        "category_id": "753",
+        "category_name": "Motors",
+        "category_slug": "motors",
+        "category_parent_id": "732"
+    },
+    {
+        "category_id": "754",
+        "category_name": "Moulds",
+        "category_slug": "moulds",
+        "category_parent_id": "732"
+    },
+    {
+        "category_id": "755",
+        "category_name": "Needle Valves",
+        "category_slug": "needle-valves",
+        "category_parent_id": "732"
+    },
+    {
+        "category_id": "756",
+        "category_name": "Other General Mechanical Components",
+        "category_slug": "other-general-mechanical-components",
+        "category_parent_id": "732"
+    },
+    {
+        "category_id": "757",
+        "category_name": "Other Mechanical Parts",
+        "category_slug": "other-mechanical-parts",
+        "category_parent_id": "732"
+    },
+    {
+        "category_id": "758",
+        "category_name": "Pipe Fittings",
+        "category_slug": "pipe-fittings",
+        "category_parent_id": "732"
+    },
+    {
+        "category_id": "759",
+        "category_name": "Pneumatic & Hydraulic",
+        "category_slug": "pneumatic-hydraulic",
+        "category_parent_id": "732"
+    },
+    {
+        "category_id": "760",
+        "category_name": "Power Transmission",
+        "category_slug": "power-transmission",
+        "category_parent_id": "732"
+    },
+    {
+        "category_id": "761",
+        "category_name": "Pumps & Parts",
+        "category_slug": "pumps-parts",
+        "category_parent_id": "732"
+    },
+    {
+        "category_id": "762",
+        "category_name": "Seals",
+        "category_slug": "seals",
+        "category_parent_id": "732"
+    },
+    {
+        "category_id": "763",
+        "category_name": "Shafts",
+        "category_slug": "shafts",
+        "category_parent_id": "732"
+    },
+    {
+        "category_id": "764",
+        "category_name": "Solenoid Valves",
+        "category_slug": "solenoid-valves",
+        "category_parent_id": "732"
+    },
+    {
+        "category_id": "765",
+        "category_name": "Used General Mechanical Components",
+        "category_slug": "used-general-mechanical-components",
+        "category_parent_id": "732"
+    },
+    {
+        "category_id": "766",
+        "category_name": "Vacuum Valves",
+        "category_slug": "vacuum-valves",
+        "category_parent_id": "732"
+    },
+    {
+        "category_id": "767",
+        "category_name": "Valve Parts",
+        "category_slug": "valve-parts",
+        "category_parent_id": "732"
+    },
+    {
+        "category_id": "768",
+        "category_name": "Valves",
+        "category_slug": "valves",
+        "category_parent_id": "732"
+    },
+    {
+        "category_id": "769",
+        "category_name": "Welding & Soldering Supplies",
+        "category_slug": "welding-soldering-supplies",
+        "category_parent_id": "732"
+    },
+    {
+        "category_id": "770",
+        "category_name": "Tools",
+        "category_slug": "tools",
+        "category_parent_id": "708"
+    },
+    {
+        "category_id": "771",
+        "category_name": "Construction Tools",
+        "category_slug": "construction-tools",
+        "category_parent_id": "770"
+    },
+    {
+        "category_id": "772",
+        "category_name": "Garden Tools",
+        "category_slug": "garden-tools",
+        "category_parent_id": "770"
+    },
+    {
+        "category_id": "773",
+        "category_name": "Hand Tools",
+        "category_slug": "hand-tools",
+        "category_parent_id": "770"
+    },
+    {
+        "category_id": "774",
+        "category_name": "Lifting Tools",
+        "category_slug": "lifting-tools",
+        "category_parent_id": "770"
+    },
+    {
+        "category_id": "775",
+        "category_name": "Material Handling Tools",
+        "category_slug": "material-handling-tools",
+        "category_parent_id": "770"
+    },
+    {
+        "category_id": "776",
+        "category_name": "Other Tools",
+        "category_slug": "other-tools",
+        "category_parent_id": "770"
+    },
+    {
+        "category_id": "777",
+        "category_name": "Power Tool Accessories",
+        "category_slug": "power-tool-accessories",
+        "category_parent_id": "770"
+    },
+    {
+        "category_id": "778",
+        "category_name": "Power Tools",
+        "category_slug": "power-tools",
+        "category_parent_id": "770"
+    },
+    {
+        "category_id": "779",
+        "category_name": "Tool Design Services",
+        "category_slug": "tool-design-services",
+        "category_parent_id": "770"
+    },
+    {
+        "category_id": "780",
+        "category_name": "Tool Parts",
+        "category_slug": "tool-parts",
+        "category_parent_id": "770"
+    },
+    {
+        "category_id": "781",
+        "category_name": "Tool Processing Services",
+        "category_slug": "tool-processing-services",
+        "category_parent_id": "770"
+    },
+    {
+        "category_id": "782",
+        "category_name": "Tool Sets",
+        "category_slug": "tool-sets",
+        "category_parent_id": "770"
+    },
+    {
+        "category_id": "783",
+        "category_name": "Tool Stock",
+        "category_slug": "tool-stock",
+        "category_parent_id": "770"
+    },
+    {
+        "category_id": "784",
+        "category_name": "Tools Packaging",
+        "category_slug": "tools-packaging",
+        "category_parent_id": "770"
+    },
+    {
+        "category_id": "785",
+        "category_name": "Used Tools",
+        "category_slug": "used-tools",
+        "category_parent_id": "770"
+    },
+    {
+        "category_id": "786",
+        "category_name": "Electric Drill",
+        "category_slug": "electric-drill",
+        "category_parent_id": "770"
+    },
+    {
+        "category_id": "787",
+        "category_name": "Knife",
+        "category_slug": "knife",
+        "category_parent_id": "770"
+    },
+    {
+        "category_id": "788",
+        "category_name": "Hand Carts & Trolleys",
+        "category_slug": "hand-carts-trolleys",
+        "category_parent_id": "770"
+    },
+    {
+        "category_id": "789",
+        "category_name": "Lawn Mower",
+        "category_slug": "lawn-mower",
+        "category_parent_id": "770"
+    },
+    {
+        "category_id": "790",
+        "category_name": "Sander",
+        "category_slug": "sander",
+        "category_parent_id": "770"
+    },
+    {
+        "category_id": "791",
+        "category_name": "Hardware",
+        "category_slug": "hardware",
+        "category_parent_id": "708"
+    },
+    {
+        "category_id": "792",
+        "category_name": "Abrasive Tools",
+        "category_slug": "abrasive-tools",
+        "category_parent_id": "791"
+    },
+    {
+        "category_id": "793",
+        "category_name": "Abrasives",
+        "category_slug": "abrasives",
+        "category_parent_id": "791"
+    },
+    {
+        "category_id": "794",
+        "category_name": "Brackets",
+        "category_slug": "brackets",
+        "category_parent_id": "791"
+    },
+    {
+        "category_id": "795",
+        "category_name": "Chains",
+        "category_slug": "chains",
+        "category_parent_id": "791"
+    },
+    {
+        "category_id": "796",
+        "category_name": "Clamps",
+        "category_slug": "clamps",
+        "category_parent_id": "791"
+    },
+    {
+        "category_id": "797",
+        "category_name": "Fasteners",
+        "category_slug": "fasteners",
+        "category_parent_id": "791"
+    },
+    {
+        "category_id": "798",
+        "category_name": "Hardware Stock",
+        "category_slug": "hardware-stock",
+        "category_parent_id": "791"
+    },
+    {
+        "category_id": "799",
+        "category_name": "Hooks",
+        "category_slug": "hooks",
+        "category_parent_id": "791"
+    },
+    {
+        "category_id": "800",
+        "category_name": "Mould Design & Processing Services",
+        "category_slug": "mould-design-processing-services",
+        "category_parent_id": "791"
+    },
+    {
+        "category_id": "801",
+        "category_name": "Other Hardware",
+        "category_slug": "other-hardware",
+        "category_parent_id": "791"
+    },
+    {
+        "category_id": "802",
+        "category_name": "Springs",
+        "category_slug": "springs",
+        "category_parent_id": "791"
+    },
+    {
+        "category_id": "803",
+        "category_name": "Used Hardware",
+        "category_slug": "used-hardware",
+        "category_parent_id": "791"
+    },
+    {
+        "category_id": "804",
+        "category_name": "Bolts",
+        "category_slug": "bolts",
+        "category_parent_id": "791"
+    },
+    {
+        "category_id": "805",
+        "category_name": "Screws",
+        "category_slug": "screws",
+        "category_parent_id": "791"
+    },
+    {
+        "category_id": "806",
+        "category_name": "Nuts",
+        "category_slug": "nuts",
+        "category_parent_id": "791"
+    },
+    {
+        "category_id": "807",
+        "category_name": "Nails",
+        "category_slug": "nails",
+        "category_parent_id": "791"
+    },
+    {
+        "category_id": "808",
+        "category_name": "Anchors",
+        "category_slug": "anchors",
+        "category_parent_id": "791"
+    },
+    {
+        "category_id": "809",
+        "category_name": "Rivets",
+        "category_slug": "rivets",
+        "category_parent_id": "791"
+    },
+    {
+        "category_id": "810",
+        "category_name": "Washers",
+        "category_slug": "washers",
+        "category_parent_id": "791"
+    },
+    {
+        "category_id": "811",
+        "category_name": "Other Fasteners",
+        "category_slug": "other-fasteners",
+        "category_parent_id": "791"
+    },
+    {
+        "category_id": "812",
+        "category_name": "Measurement & Analysis Instruments",
+        "category_slug": "measurement-analysis-instruments",
+        "category_parent_id": "708"
+    },
+    {
+        "category_id": "813",
+        "category_name": "Analyzers",
+        "category_slug": "analyzers",
+        "category_parent_id": "812"
+    },
+    {
+        "category_id": "814",
+        "category_name": "Counters",
+        "category_slug": "counters",
+        "category_parent_id": "812"
+    },
+    {
+        "category_id": "815",
+        "category_name": "Electrical Instruments",
+        "category_slug": "electrical-instruments",
+        "category_parent_id": "812"
+    },
+    {
+        "category_id": "816",
+        "category_name": "Electronic Measuring Instruments",
+        "category_slug": "electronic-measuring-instruments",
+        "category_parent_id": "812"
+    },
+    {
+        "category_id": "817",
+        "category_name": "Flow Measuring Instruments",
+        "category_slug": "flow-measuring-instruments",
+        "category_parent_id": "812"
+    },
+    {
+        "category_id": "818",
+        "category_name": "Instrument Parts & Accessories",
+        "category_slug": "instrument-parts-accessories",
+        "category_parent_id": "812"
+    },
+    {
+        "category_id": "819",
+        "category_name": "Lab Supplies",
+        "category_slug": "lab-supplies",
+        "category_parent_id": "812"
+    },
+    {
+        "category_id": "820",
+        "category_name": "Level Measuring Instruments",
+        "category_slug": "level-measuring-instruments",
+        "category_parent_id": "812"
+    },
+    {
+        "category_id": "821",
+        "category_name": "Measuring & Analysing Instrument Design Services",
+        "category_slug": "measuring-analysing-instrument-design-services",
+        "category_parent_id": "812"
+    },
+    {
+        "category_id": "822",
+        "category_name": "Measuring & Analysing Instrument Processing Services",
+        "category_slug": "measuring-analysing-instrument-processing-services",
+        "category_parent_id": "812"
+    },
+    {
+        "category_id": "823",
+        "category_name": "Measuring & Analysing Instrument Stocks",
+        "category_slug": "measuring-analysing-instrument-stocks",
+        "category_parent_id": "812"
+    },
+    {
+        "category_id": "824",
+        "category_name": "Measuring & Gauging Tools",
+        "category_slug": "measuring-gauging-tools",
+        "category_parent_id": "812"
+    },
+    {
+        "category_id": "825",
+        "category_name": "Optical Instruments",
+        "category_slug": "optical-instruments",
+        "category_parent_id": "812"
+    },
+    {
+        "category_id": "826",
+        "category_name": "Other Measuring & Analysing Instruments",
+        "category_slug": "other-measuring-analysing-instruments",
+        "category_parent_id": "812"
+    },
+    {
+        "category_id": "827",
+        "category_name": "Physical Measuring Instruments",
+        "category_slug": "physical-measuring-instruments",
+        "category_parent_id": "812"
+    },
+    {
+        "category_id": "828",
+        "category_name": "Pressure Measuring Instruments",
+        "category_slug": "pressure-measuring-instruments",
+        "category_parent_id": "812"
+    },
+    {
+        "category_id": "829",
+        "category_name": "Temperature Instruments",
+        "category_slug": "temperature-instruments",
+        "category_parent_id": "812"
+    },
+    {
+        "category_id": "830",
+        "category_name": "Testing Equipment",
+        "category_slug": "testing-equipment",
+        "category_parent_id": "812"
+    },
+    {
+        "category_id": "831",
+        "category_name": "Timers",
+        "category_slug": "timers",
+        "category_parent_id": "812"
+    },
+    {
+        "category_id": "832",
+        "category_name": "Used Measuring & Analysing Instruments",
+        "category_slug": "used-measuring-analysing-instruments",
+        "category_parent_id": "812"
+    },
+    {
+        "category_id": "833",
+        "category_name": "Weighing Scales",
+        "category_slug": "weighing-scales",
+        "category_parent_id": "812"
+    },
+    {
+        "category_id": "834",
+        "category_name": "Metallurgy, Chemicals, Rubber & Plastics",
+        "category_slug": "metallurgy-chemicals-rubber-plastics",
+        "category_parent_id": "0"
+    },
+    {
+        "category_id": "835",
+        "category_name": "Minerals & Metallurgy",
+        "category_slug": "minerals-metallurgy",
+        "category_parent_id": "834"
+    },
+    {
+        "category_id": "836",
+        "category_name": "Aluminum",
+        "category_slug": "aluminum",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "837",
+        "category_name": "Asbestos Products",
+        "category_slug": "asbestos-products",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "838",
+        "category_name": "Asbestos Sheets",
+        "category_slug": "asbestos-sheets",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "839",
+        "category_name": "Barbed Wire",
+        "category_slug": "barbed-wire",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "840",
+        "category_name": "Billets",
+        "category_slug": "billets",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "841",
+        "category_name": "Carbon",
+        "category_slug": "carbon",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "842",
+        "category_name": "Carbon Fiber",
+        "category_slug": "carbon-fiber",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "843",
+        "category_name": "Cast & Forged",
+        "category_slug": "cast-forged",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "844",
+        "category_name": "Cemented Carbide",
+        "category_slug": "cemented-carbide",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "845",
+        "category_name": "Ceramic Fiber Products",
+        "category_slug": "ceramic-fiber-products",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "846",
+        "category_name": "Ceramics",
+        "category_slug": "ceramics",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "847",
+        "category_name": "Copper",
+        "category_slug": "copper",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "848",
+        "category_name": "Copper Forged",
+        "category_slug": "copper-forged",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "849",
+        "category_name": "Fiberglass Products",
+        "category_slug": "fiberglass-products",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "850",
+        "category_name": "Glass",
+        "category_slug": "glass",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "851",
+        "category_name": "Graphite Products",
+        "category_slug": "graphite-products",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "852",
+        "category_name": "Ingots",
+        "category_slug": "ingots",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "853",
+        "category_name": "Iron",
+        "category_slug": "iron",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "854",
+        "category_name": "Lead",
+        "category_slug": "lead",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "855",
+        "category_name": "Lime",
+        "category_slug": "lime",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "856",
+        "category_name": "Magnetic Materials",
+        "category_slug": "magnetic-materials",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "857",
+        "category_name": "Metal Scrap",
+        "category_slug": "metal-scrap",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "858",
+        "category_name": "Metal Slabs",
+        "category_slug": "metal-slabs",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "859",
+        "category_name": "Mineral Wool",
+        "category_slug": "mineral-wool",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "860",
+        "category_name": "Molybdenum",
+        "category_slug": "molybdenum",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "861",
+        "category_name": "Nickel",
+        "category_slug": "nickel",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "862",
+        "category_name": "Non-Metallic Mineral Deposit",
+        "category_slug": "non-metallic-mineral-deposit",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "863",
+        "category_name": "Ore",
+        "category_slug": "ore",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "864",
+        "category_name": "Other Metals & Metal Products",
+        "category_slug": "other-metals-metal-products",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "865",
+        "category_name": "Other Non-Metallic Minerals & Products",
+        "category_slug": "other-non-metallic-minerals-products",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "866",
+        "category_name": "Pig Iron",
+        "category_slug": "pig-iron",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "867",
+        "category_name": "Quartz Products",
+        "category_slug": "quartz-products",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "868",
+        "category_name": "Rare Earth & Products",
+        "category_slug": "rare-earth-products",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "869",
+        "category_name": "Rare Earth Magnets",
+        "category_slug": "rare-earth-magnets",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "870",
+        "category_name": "Refractory",
+        "category_slug": "refractory",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "871",
+        "category_name": "Steel",
+        "category_slug": "steel",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "872",
+        "category_name": "Titanium",
+        "category_slug": "titanium",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "873",
+        "category_name": "Tungsten",
+        "category_slug": "tungsten",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "874",
+        "category_name": "Wire Mesh",
+        "category_slug": "wire-mesh",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "875",
+        "category_name": "Zinc",
+        "category_slug": "zinc",
+        "category_parent_id": "835"
+    },
+    {
+        "category_id": "876",
+        "category_name": "Chemicals",
+        "category_slug": "chemicals",
+        "category_parent_id": "834"
+    },
+    {
+        "category_id": "877",
+        "category_name": "Gas Disposal",
+        "category_slug": "gas-disposal",
+        "category_parent_id": "876"
+    },
+    {
+        "category_id": "878",
+        "category_name": "Noise Reduction Device",
+        "category_slug": "noise-reduction-device",
+        "category_parent_id": "876"
+    },
+    {
+        "category_id": "879",
+        "category_name": "Other Environmental Products",
+        "category_slug": "other-environmental-products",
+        "category_parent_id": "876"
+    },
+    {
+        "category_id": "880",
+        "category_name": "Other Excess Inventory",
+        "category_slug": "other-excess-inventory",
+        "category_parent_id": "876"
+    },
+    {
+        "category_id": "881",
+        "category_name": "Recycling",
+        "category_slug": "recycling",
+        "category_parent_id": "876"
+    },
+    {
+        "category_id": "882",
+        "category_name": "Sewer",
+        "category_slug": "sewer",
+        "category_parent_id": "876"
+    },
+    {
+        "category_id": "883",
+        "category_name": "Waste Management",
+        "category_slug": "waste-management",
+        "category_parent_id": "876"
+    },
+    {
+        "category_id": "884",
+        "category_name": "Water Treatment",
+        "category_slug": "water-treatment",
+        "category_parent_id": "876"
+    },
+    {
+        "category_id": "885",
+        "category_name": "Textile Waste",
+        "category_slug": "textile-waste",
+        "category_parent_id": "876"
+    },
+    {
+        "category_id": "886",
+        "category_name": "Waste Paper",
+        "category_slug": "waste-paper",
+        "category_parent_id": "876"
+    },
+    {
+        "category_id": "887",
+        "category_name": "Other Recycling Products",
+        "category_slug": "other-recycling-products",
+        "category_parent_id": "876"
+    },
+    {
+        "category_id": "888",
+        "category_name": "Rubber & Plastics",
+        "category_slug": "rubber-plastics",
+        "category_parent_id": "834"
+    },
+    {
+        "category_id": "889",
+        "category_name": "Plastic Processing Service",
+        "category_slug": "plastic-processing-service",
+        "category_parent_id": "888"
+    },
+    {
+        "category_id": "890",
+        "category_name": "Plastic Products",
+        "category_slug": "plastic-products",
+        "category_parent_id": "888"
+    },
+    {
+        "category_id": "891",
+        "category_name": "Plastic Projects",
+        "category_slug": "plastic-projects",
+        "category_parent_id": "888"
+    },
+    {
+        "category_id": "892",
+        "category_name": "Plastic Raw Materials",
+        "category_slug": "plastic-raw-materials",
+        "category_parent_id": "888"
+    },
+    {
+        "category_id": "893",
+        "category_name": "Plastic Stocks",
+        "category_slug": "plastic-stocks",
+        "category_parent_id": "888"
+    },
+    {
+        "category_id": "894",
+        "category_name": "Recycled Plastic",
+        "category_slug": "recycled-plastic",
+        "category_parent_id": "888"
+    },
+    {
+        "category_id": "895",
+        "category_name": "Recycled Rubber",
+        "category_slug": "recycled-rubber",
+        "category_parent_id": "888"
+    },
+    {
+        "category_id": "896",
+        "category_name": "Rubber Processing Service",
+        "category_slug": "rubber-processing-service",
+        "category_parent_id": "888"
+    },
+    {
+        "category_id": "897",
+        "category_name": "Rubber Products",
+        "category_slug": "rubber-products",
+        "category_parent_id": "888"
+    },
+    {
+        "category_id": "898",
+        "category_name": "Rubber Projects",
+        "category_slug": "rubber-projects",
+        "category_parent_id": "888"
+    },
+    {
+        "category_id": "899",
+        "category_name": "Rubber Raw Materials",
+        "category_slug": "rubber-raw-materials",
+        "category_parent_id": "888"
+    },
+    {
+        "category_id": "900",
+        "category_name": "Rubber Stocks",
+        "category_slug": "rubber-stocks",
+        "category_parent_id": "888"
+    },
+    {
+        "category_id": "901",
+        "category_name": "Plastic Cards",
+        "category_slug": "plastic-cards",
+        "category_parent_id": "888"
+    },
+    {
+        "category_id": "902",
+        "category_name": "PVC",
+        "category_slug": "pvc",
+        "category_parent_id": "888"
+    },
+    {
+        "category_id": "903",
+        "category_name": "Plastic Tubes",
+        "category_slug": "plastic-tubes",
+        "category_parent_id": "888"
+    },
+    {
+        "category_id": "904",
+        "category_name": "HDPE",
+        "category_slug": "hdpe",
+        "category_parent_id": "888"
+    },
+    {
+        "category_id": "905",
+        "category_name": "Rubber Hoses",
+        "category_slug": "rubber-hoses",
+        "category_parent_id": "888"
+    },
+    {
+        "category_id": "906",
+        "category_name": "Plastic Sheets",
+        "category_slug": "plastic-sheets",
+        "category_parent_id": "888"
+    },
+    {
+        "category_id": "907",
+        "category_name": "LDPE",
+        "category_slug": "ldpe",
+        "category_parent_id": "888"
+    },
+    {
+        "category_id": "908",
+        "category_name": "Agricultural Rubber",
+        "category_slug": "agricultural-rubber",
+        "category_parent_id": "888"
+    },
+    {
+        "category_id": "909",
+        "category_name": "Energy",
+        "category_slug": "energy",
+        "category_parent_id": "834"
+    },
+    {
+        "category_id": "910",
+        "category_name": "Biodiesel",
+        "category_slug": "biodiesel",
+        "category_parent_id": "909"
+    },
+    {
+        "category_id": "911",
+        "category_name": "Biogas",
+        "category_slug": "biogas",
+        "category_parent_id": "909"
+    },
+    {
+        "category_id": "912",
+        "category_name": "Charcoal",
+        "category_slug": "charcoal",
+        "category_parent_id": "909"
+    },
+    {
+        "category_id": "913",
+        "category_name": "Coal",
+        "category_slug": "coal",
+        "category_parent_id": "909"
+    },
+    {
+        "category_id": "914",
+        "category_name": "Coal Gas",
+        "category_slug": "coal-gas",
+        "category_parent_id": "909"
+    },
+    {
+        "category_id": "915",
+        "category_name": "Coke Fuel",
+        "category_slug": "coke-fuel",
+        "category_parent_id": "909"
+    },
+    {
+        "category_id": "916",
+        "category_name": "Crude Oil",
+        "category_slug": "crude-oil",
+        "category_parent_id": "909"
+    },
+    {
+        "category_id": "917",
+        "category_name": "Electricity Generation",
+        "category_slug": "electricity-generation",
+        "category_parent_id": "909"
+    },
+    {
+        "category_id": "918",
+        "category_name": "Petrochemical Products",
+        "category_slug": "petrochemical-products",
+        "category_parent_id": "909"
+    },
+    {
+        "category_id": "919",
+        "category_name": "Solar Energy Products",
+        "category_slug": "solar-energy-products",
+        "category_parent_id": "909"
+    },
+    {
+        "category_id": "920",
+        "category_name": "Industrial Fuel",
+        "category_slug": "industrial-fuel",
+        "category_parent_id": "909"
+    },
+    {
+        "category_id": "921",
+        "category_name": "Natural Gas",
+        "category_slug": "natural-gas",
+        "category_parent_id": "909"
+    },
+    {
+        "category_id": "922",
+        "category_name": "Other Energy Related Products",
+        "category_slug": "other-energy-related-products",
+        "category_parent_id": "909"
+    },
+    {
+        "category_id": "923",
+        "category_name": "Wood Pellets",
+        "category_slug": "wood-pellets",
+        "category_parent_id": "909"
+    },
+    {
+        "category_id": "924",
+        "category_name": "Solar Energy Systems",
+        "category_slug": "solar-energy-systems",
+        "category_parent_id": "909"
+    },
+    {
+        "category_id": "925",
+        "category_name": "Lubricant",
+        "category_slug": "lubricant",
+        "category_parent_id": "909"
+    },
+    {
+        "category_id": "926",
+        "category_name": "Diesel Fuel",
+        "category_slug": "diesel-fuel",
+        "category_parent_id": "909"
+    },
+    {
+        "category_id": "927",
+        "category_name": "Solar Chargers",
+        "category_slug": "solar-chargers",
+        "category_parent_id": "909"
+    },
+    {
+        "category_id": "928",
+        "category_name": "Solar Collectors",
+        "category_slug": "solar-collectors",
+        "category_parent_id": "909"
+    },
+    {
+        "category_id": "929",
+        "category_name": "Bitumen",
+        "category_slug": "bitumen",
+        "category_parent_id": "909"
+    },
+    {
+        "category_id": "930",
+        "category_name": "Environment",
+        "category_slug": "environment",
+        "category_parent_id": "834"
+    },
+    {
+        "category_id": "931",
+        "category_name": "Additives",
+        "category_slug": "additives",
+        "category_parent_id": "930"
+    },
+    {
+        "category_id": "932",
+        "category_name": "Adhesives & Sealants",
+        "category_slug": "adhesives-sealants",
+        "category_parent_id": "930"
+    },
+    {
+        "category_id": "933",
+        "category_name": "Agrochemicals",
+        "category_slug": "agrochemicals",
+        "category_parent_id": "930"
+    },
+    {
+        "category_id": "934",
+        "category_name": "Basic Organic Chemicals",
+        "category_slug": "basic-organic-chemicals",
+        "category_parent_id": "930"
+    },
+    {
+        "category_id": "935",
+        "category_name": "Catalysts & Chemical Auxiliary Agents",
+        "category_slug": "catalysts-chemical-auxiliary-agents",
+        "category_parent_id": "930"
+    },
+    {
+        "category_id": "936",
+        "category_name": "Chemical Reagent Products",
+        "category_slug": "chemical-reagent-products",
+        "category_parent_id": "930"
+    },
+    {
+        "category_id": "937",
+        "category_name": "Chemical Waste",
+        "category_slug": "chemical-waste",
+        "category_parent_id": "930"
+    },
+    {
+        "category_id": "938",
+        "category_name": "Custom Chemical Services",
+        "category_slug": "custom-chemical-services",
+        "category_parent_id": "930"
+    },
+    {
+        "category_id": "939",
+        "category_name": "Daily Chemical Raw Materials",
+        "category_slug": "daily-chemical-raw-materials",
+        "category_parent_id": "930"
+    },
+    {
+        "category_id": "940",
+        "category_name": "Flavour & Fragrance",
+        "category_slug": "flavour-fragrance",
+        "category_parent_id": "930"
+    },
+    {
+        "category_id": "941",
+        "category_name": "Inorganic Chemicals",
+        "category_slug": "inorganic-chemicals",
+        "category_parent_id": "930"
+    },
+    {
+        "category_id": "942",
+        "category_name": "Non-Explosive Demolition Agents",
+        "category_slug": "non-explosive-demolition-agents",
+        "category_parent_id": "930"
+    },
+    {
+        "category_id": "943",
+        "category_name": "Organic Intermediates",
+        "category_slug": "organic-intermediates",
+        "category_parent_id": "930"
+    },
+    {
+        "category_id": "944",
+        "category_name": "Other Chemicals",
+        "category_slug": "other-chemicals",
+        "category_parent_id": "930"
+    },
+    {
+        "category_id": "945",
+        "category_name": "Paints & Coatings",
+        "category_slug": "paints-coatings",
+        "category_parent_id": "930"
+    },
+    {
+        "category_id": "946",
+        "category_name": "Pharmaceuticals",
+        "category_slug": "pharmaceuticals",
+        "category_parent_id": "930"
+    },
+    {
+        "category_id": "947",
+        "category_name": "Pigment & Dyestuff",
+        "category_slug": "pigment-dyestuff",
+        "category_parent_id": "930"
+    },
+    {
+        "category_id": "948",
+        "category_name": "Polymer",
+        "category_slug": "polymer",
+        "category_parent_id": "930"
+    },
+    {
+        "category_id": "949",
+        "category_name": "Food Additive Products",
+        "category_slug": "food-additive-products",
+        "category_parent_id": "930"
+    },
+    {
+        "category_id": "950",
+        "category_name": "Fertilizer",
+        "category_slug": "fertilizer",
+        "category_parent_id": "930"
+    },
+    {
+        "category_id": "951",
+        "category_name": "Packaging, Advertising & Office",
+        "category_slug": "packaging-advertising-office",
+        "category_parent_id": "0"
+    },
+    {
+        "category_id": "952",
+        "category_name": "Packaging & Printing",
+        "category_slug": "packaging-printing",
+        "category_parent_id": "951"
+    },
+    {
+        "category_id": "953",
+        "category_name": "Adhesive Tape",
+        "category_slug": "adhesive-tape",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "954",
+        "category_name": "Agricultural Packaging",
+        "category_slug": "agricultural-packaging",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "955",
+        "category_name": "Aluminum Foil",
+        "category_slug": "aluminum-foil",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "956",
+        "category_name": "Apparel Packaging",
+        "category_slug": "apparel-packaging",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "957",
+        "category_name": "Blister Cards",
+        "category_slug": "blister-cards",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "958",
+        "category_name": "Bottles",
+        "category_slug": "bottles",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "959",
+        "category_name": "Cans",
+        "category_slug": "cans",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "960",
+        "category_name": "Chemical Packaging",
+        "category_slug": "chemical-packaging",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "961",
+        "category_name": "Composite Packaging Materials",
+        "category_slug": "composite-packaging-materials",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "962",
+        "category_name": "Cosmetics Packaging",
+        "category_slug": "cosmetics-packaging",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "963",
+        "category_name": "Electronics Packaging",
+        "category_slug": "electronics-packaging",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "964",
+        "category_name": "Food Packaging",
+        "category_slug": "food-packaging",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "965",
+        "category_name": "Gift Packaging",
+        "category_slug": "gift-packaging",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "966",
+        "category_name": "Handles",
+        "category_slug": "handles",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "967",
+        "category_name": "Hot Stamping Foil",
+        "category_slug": "hot-stamping-foil",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "968",
+        "category_name": "Jars",
+        "category_slug": "jars",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "969",
+        "category_name": "Lids, Bottle Caps, Closures",
+        "category_slug": "lids-bottle-caps-closures",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "970",
+        "category_name": "Media Packaging",
+        "category_slug": "media-packaging",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "971",
+        "category_name": "Metallized Film",
+        "category_slug": "metallized-film",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "972",
+        "category_name": "Other Packaging Applications",
+        "category_slug": "other-packaging-applications",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "973",
+        "category_name": "Other Packaging Materials",
+        "category_slug": "other-packaging-materials",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "974",
+        "category_name": "Packaging Bags",
+        "category_slug": "packaging-bags",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "975",
+        "category_name": "Packaging Boxes",
+        "category_slug": "packaging-boxes",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "976",
+        "category_name": "Packaging Labels",
+        "category_slug": "packaging-labels",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "977",
+        "category_name": "Packaging Product Stocks",
+        "category_slug": "packaging-product-stocks",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "978",
+        "category_name": "Packaging Rope",
+        "category_slug": "packaging-rope",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "979",
+        "category_name": "Packaging Trays",
+        "category_slug": "packaging-trays",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "980",
+        "category_name": "Packaging Tubes",
+        "category_slug": "packaging-tubes",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "981",
+        "category_name": "Paper & Paperboard",
+        "category_slug": "paper-paperboard",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "982",
+        "category_name": "Paper Packaging",
+        "category_slug": "paper-packaging",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "983",
+        "category_name": "Pharmaceutical Packaging",
+        "category_slug": "pharmaceutical-packaging",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "984",
+        "category_name": "Plastic Film",
+        "category_slug": "plastic-film",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "985",
+        "category_name": "Plastic Packaging",
+        "category_slug": "plastic-packaging",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "986",
+        "category_name": "Printing Materials",
+        "category_slug": "printing-materials",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "987",
+        "category_name": "Printing Services",
+        "category_slug": "printing-services",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "988",
+        "category_name": "Protective Packaging",
+        "category_slug": "protective-packaging",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "989",
+        "category_name": "Pulp",
+        "category_slug": "pulp",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "990",
+        "category_name": "Shrink Film",
+        "category_slug": "shrink-film",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "991",
+        "category_name": "Strapping",
+        "category_slug": "strapping",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "992",
+        "category_name": "Stretch Film",
+        "category_slug": "stretch-film",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "993",
+        "category_name": "Tobacco Packaging",
+        "category_slug": "tobacco-packaging",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "994",
+        "category_name": "Transport Packaging",
+        "category_slug": "transport-packaging",
+        "category_parent_id": "952"
+    },
+    {
+        "category_id": "995",
+        "category_name": "Office & School Supplies",
+        "category_slug": "office-school-supplies",
+        "category_parent_id": "951"
+    },
+    {
+        "category_id": "996",
+        "category_name": "Art Supplies",
+        "category_slug": "art-supplies",
+        "category_parent_id": "995"
+    },
+    {
+        "category_id": "997",
+        "category_name": "Badge Holder & Accessories",
+        "category_slug": "badge-holder-accessories",
+        "category_parent_id": "995"
+    },
+    {
+        "category_id": "998",
+        "category_name": "Board",
+        "category_slug": "board",
+        "category_parent_id": "995"
+    },
+    {
+        "category_id": "999",
+        "category_name": "Board Eraser",
+        "category_slug": "board-eraser",
+        "category_parent_id": "995"
+    },
+    {
+        "category_id": "1000",
+        "category_name": "Book Cover",
+        "category_slug": "book-cover",
+        "category_parent_id": "995"
+    },
+    {
+        "category_id": "1001",
+        "category_name": "Books",
+        "category_slug": "books",
+        "category_parent_id": "995"
+    },
+    {
+        "category_id": "1002",
+        "category_name": "Calculator",
+        "category_slug": "calculator",
+        "category_parent_id": "995"
+    },
+    {
+        "category_id": "1003",
+        "category_name": "Calendar",
+        "category_slug": "calendar",
+        "category_parent_id": "995"
+    },
+    {
+        "category_id": "1004",
+        "category_name": "Clipboard",
+        "category_slug": "clipboard",
+        "category_parent_id": "995"
+    },
+    {
+        "category_id": "1005",
+        "category_name": "Correction Supplies",
+        "category_slug": "correction-supplies",
+        "category_parent_id": "995"
+    },
+    {
+        "category_id": "1006",
+        "category_name": "Desk Organizer",
+        "category_slug": "desk-organizer",
+        "category_parent_id": "995"
+    },
+    {
+        "category_id": "1007",
+        "category_name": "Drafting Supplies",
+        "category_slug": "drafting-supplies",
+        "category_parent_id": "995"
+    },
+    {
+        "category_id": "1008",
+        "category_name": "Easels",
+        "category_slug": "easels",
+        "category_parent_id": "995"
+    },
+    {
+        "category_id": "1009",
+        "category_name": "Educational Supplies",
+        "category_slug": "educational-supplies",
+        "category_parent_id": "995"
+    },
+    {
+        "category_id": "1010",
+        "category_name": "Filing Products",
+        "category_slug": "filing-products",
+        "category_parent_id": "995"
+    },
+    {
+        "category_id": "1011",
+        "category_name": "Letter Pad \/ Paper",
+        "category_slug": "letter-pad-paper",
+        "category_parent_id": "995"
+    },
+    {
+        "category_id": "1012",
+        "category_name": "Magazines",
+        "category_slug": "magazines",
+        "category_parent_id": "995"
+    },
+    {
+        "category_id": "1013",
+        "category_name": "Map",
+        "category_slug": "map",
+        "category_parent_id": "995"
+    },
+    {
+        "category_id": "1014",
+        "category_name": "Notebooks & Writing Pads",
+        "category_slug": "notebooks-writing-pads",
+        "category_parent_id": "995"
+    },
+    {
+        "category_id": "1015",
+        "category_name": "Office Adhesives & Tapes",
+        "category_slug": "office-adhesives-tapes",
+        "category_parent_id": "995"
+    },
+    {
+        "category_id": "1016",
+        "category_name": "Office Binding Supplies",
+        "category_slug": "office-binding-supplies",
+        "category_parent_id": "995"
+    },
+    {
+        "category_id": "1017",
+        "category_name": "Office Cutting Supplies",
+        "category_slug": "office-cutting-supplies",
+        "category_parent_id": "995"
+    },
+    {
+        "category_id": "1018",
+        "category_name": "Office Equipment",
+        "category_slug": "office-equipment",
+        "category_parent_id": "995"
+    },
+    {
+        "category_id": "1019",
+        "category_name": "Office Paper",
+        "category_slug": "office-paper",
+        "category_parent_id": "995"
+    },
+    {
+        "category_id": "1020",
+        "category_name": "Other Office & School Supplies",
+        "category_slug": "other-office-school-supplies",
+        "category_parent_id": "995"
+    },
+    {
+        "category_id": "1021",
+        "category_name": "Paper Envelopes",
+        "category_slug": "paper-envelopes",
+        "category_parent_id": "995"
+    },
+    {
+        "category_id": "1022",
+        "category_name": "Pencil Cases & Bags",
+        "category_slug": "pencil-cases-bags",
+        "category_parent_id": "995"
+    },
+    {
+        "category_id": "1023",
+        "category_name": "Pencil Sharpeners",
+        "category_slug": "pencil-sharpeners",
+        "category_parent_id": "995"
+    },
+    {
+        "category_id": "1024",
+        "category_name": "Printer Supplies",
+        "category_slug": "printer-supplies",
+        "category_parent_id": "995"
+    },
+    {
+        "category_id": "1025",
+        "category_name": "Stamps",
+        "category_slug": "stamps",
+        "category_parent_id": "995"
+    },
+    {
+        "category_id": "1026",
+        "category_name": "Stationery Set",
+        "category_slug": "stationery-set",
+        "category_parent_id": "995"
+    },
+    {
+        "category_id": "1027",
+        "category_name": "Stencils",
+        "category_slug": "stencils",
+        "category_parent_id": "995"
+    },
+    {
+        "category_id": "1028",
+        "category_name": "Writing Accessories",
+        "category_slug": "writing-accessories",
+        "category_parent_id": "995"
+    },
+    {
+        "category_id": "1029",
+        "category_name": "Writing Instruments",
+        "category_slug": "writing-instruments",
+        "category_parent_id": "995"
+    },
+    {
+        "category_id": "1030",
+        "category_name": "Yellow Pages",
+        "category_slug": "yellow-pages",
+        "category_parent_id": "995"
+    },
+    {
+        "category_id": "1031",
+        "category_name": "Service Equipment",
+        "category_slug": "service-equipment",
+        "category_parent_id": "951"
+    },
+    {
+        "category_id": "1032",
+        "category_name": "Advertising Equipment",
+        "category_slug": "advertising-equipment",
+        "category_parent_id": "1031"
+    },
+    {
+        "category_id": "1033",
+        "category_name": "Cargo & Storage Equipment",
+        "category_slug": "cargo-storage-equipment",
+        "category_parent_id": "1031"
+    },
+    {
+        "category_id": "1034",
+        "category_name": "Commercial Laundry Equipment",
+        "category_slug": "commercial-laundry-equipment",
+        "category_parent_id": "1031"
+    },
+    {
+        "category_id": "1035",
+        "category_name": "Financial Equipment",
+        "category_slug": "financial-equipment",
+        "category_parent_id": "1031"
+    },
+    {
+        "category_id": "1036",
+        "category_name": "Funeral Supplies",
+        "category_slug": "funeral-supplies",
+        "category_parent_id": "1031"
+    },
+    {
+        "category_id": "1037",
+        "category_name": "Other Service Equipment",
+        "category_slug": "other-service-equipment",
+        "category_parent_id": "1031"
+    },
+    {
+        "category_id": "1038",
+        "category_name": "Restaurant & Hotel Supplies",
+        "category_slug": "restaurant-hotel-supplies",
+        "category_parent_id": "1031"
+    },
+    {
+        "category_id": "1039",
+        "category_name": "Store & Supermarket Supplies",
+        "category_slug": "store-supermarket-supplies",
+        "category_parent_id": "1031"
+    },
+    {
+        "category_id": "1040",
+        "category_name": "Trade Show Equipment",
+        "category_slug": "trade-show-equipment",
+        "category_parent_id": "1031"
+    },
+    {
+        "category_id": "1041",
+        "category_name": "Vending Machines",
+        "category_slug": "vending-machines",
+        "category_parent_id": "1031"
+    },
+    {
+        "category_id": "1042",
+        "category_name": "Wedding Supplies",
+        "category_slug": "wedding-supplies",
+        "category_parent_id": "1031"
+    },
+    {
+        "category_id": "1043",
+        "category_name": "Display Racks",
+        "category_slug": "display-racks",
+        "category_parent_id": "1031"
+    },
+    {
+        "category_id": "1044",
+        "category_name": "Advertising Players",
+        "category_slug": "advertising-players",
+        "category_parent_id": "1031"
+    },
+    {
+        "category_id": "1045",
+        "category_name": "Advertising Light Boxes",
+        "category_slug": "advertising-light-boxes",
+        "category_parent_id": "1031"
+    },
+    {
+        "category_id": "1046",
+        "category_name": "Hotel Amenities",
+        "category_slug": "hotel-amenities",
+        "category_parent_id": "1031"
+    },
+    {
+        "category_id": "1047",
+        "category_name": "POS Systems",
+        "category_slug": "pos-systems",
+        "category_parent_id": "1031"
+    },
+    {
+        "category_id": "1048",
+        "category_name": "Supermarket Shelves",
+        "category_slug": "supermarket-shelves",
+        "category_parent_id": "1031"
+    },
+    {
+        "category_id": "1049",
+        "category_name": "Stacking Racks & Shelves",
+        "category_slug": "stacking-racks-shelves",
+        "category_parent_id": "1031"
+    },
+    {
+        "category_id": "1050",
+        "category_name": "Refrigeration Equipment",
+        "category_slug": "refrigeration-equipment",
+        "category_parent_id": "1031"
+    },
+    {
+        "category_id": "1051",
+        "category_name": "Trade Show Tent",
+        "category_slug": "trade-show-tent",
+        "category_parent_id": "1031"
+    }
+]

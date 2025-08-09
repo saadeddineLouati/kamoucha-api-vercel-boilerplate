@@ -1,0 +1,423 @@
+components:
+  schemas:
+    User:
+      type: object
+      properties:
+        id:
+          type: string
+        email:
+          type: string
+          format: email
+        name:
+          type: string
+        role:
+          type: string
+          enum: [user, admin]
+      example:
+        id: 5ebac534954b54139806c112
+        email: fake@example.com
+        name: fake name
+        role: user
+
+    Category:
+      type: object
+      properties:
+        category_id:
+          type: string
+        category_name:
+          type: string
+          format: email
+        category_slug:
+          type: string
+        category_parent_id:
+          type: string
+      example:
+        category_id: 1
+        category_name: Agriculture & Food
+        category_slug: agriculture-food
+        category_parent_id: 0
+
+    Address:
+      type: object
+      properties:
+        name:
+          type: string
+        street:
+          type: string
+        postalCode:
+          type: string
+        town:
+          type: string
+        country:
+          type: string
+        phoneNumber:
+          type: string
+        metadata:
+          type: string
+      example:
+        name: Main address
+        street: 12 Rue Botzaris
+        postalCode: 75751
+        town: Paris
+        country: France
+        phoneNumber: 0033756312598
+        metadata: {}
+
+    Alert:
+      type: object
+      properties:
+        user:
+          type: string
+        type:
+          type: string
+        subCategory:
+          type: string
+        category:
+          type: string
+      example:
+        user: 15fr5f4fr98e9e5de59d
+        type: vendor_alert
+        subCategory: smartphones
+        category: technology
+
+    Promocode:
+      type: object
+      properties:
+        user:
+          type: string
+        type:
+          type: string
+        subCategory:
+          type: string
+        category:
+          type: string
+        copies:
+          type: string
+        expiringDate:
+          type: string
+      example:
+        user: 15fr5f4fr98e9e5de59d
+        product: 15fr5f4fr98e9e5de59d
+        copies: 10
+        type: vendor_promocode
+        subCategory: smartphones
+
+    Deal:
+      type: object
+      properties:
+        user:
+          type: string
+        subCategory:
+          type: string
+        category:
+          type: string
+        title:
+          type: string
+        link:
+          type: string
+      example:
+        user: 15fr5f4fr98e9e5de59d
+        subCategory: cars
+        category: vehicles
+        title: Discount 10%
+        link: https://link.com
+
+    Free:
+      type: object
+      properties:
+        user:
+          type: string
+        subCategory:
+          type: string
+        category:
+          type: string
+        title:
+          type: string
+        url:
+          type: string
+      example:
+        user: 15fr5f4fr98e9e5de59d
+        subCategory: cars
+        category: vehicles
+        title: Discount 10%
+        url: https://link.com
+
+    Content:
+      type: object
+      properties:
+        date:
+          type: date
+        type:
+          type: string
+        subCategory:
+          type: string
+        category:
+          type: string
+      example:
+        date: Wed Oct 18 2017 12:41:34 GMT+0000 (UTC)
+        type: vendor_alert
+        subCategory: smartphones
+        category: technology
+
+    Search:
+      type: object
+      properties:
+        subCategory:
+          type: string
+        category:
+          type: string
+      example:
+        subCategory: smartphones
+        category: technology
+
+    Boost:
+      type: object
+      properties:
+        product:
+          type: string
+        date:
+          type: date
+        type:
+          type: string
+          enum: [super_boost, simple_boost]
+      example:
+        product: 54de54f5ref48ze455gtg
+        date: Wed Oct 18 2017 12:41:34 GMT+0000 (UTC)
+        type: super_boost
+
+    Visit:
+      type: object
+      properties:
+        product:
+          type: string
+        vendor:
+          type: string
+        user:
+          type: string
+        type:
+          type: string
+          enum: [vendor_visit, product_visit]
+      example:
+        product: 54de54f5ref48ze455gtg
+        user: 54de54f5ref48ze455gtg
+        type: vendor_visit
+
+    Review:
+      type: object
+      properties:
+        id:
+          type: string
+        user:
+          type: string
+        product:
+          type: string
+        vendor:
+          type: string
+        type:
+          type: string
+          enum: [product_review, vendor_review, auto_review]
+        value:
+          type: number
+        comment:
+          type: string
+        metadata:
+          type: object
+      example:
+          product: 5ebac534954b54139806c112
+          user: 5ebac534954b54139806c112
+          vendor: 5ebac534954b54139806c112
+          type: vendor_review
+          value: 4
+          comment: Very kind vendor
+
+    Comment:
+      type: object
+      properties:
+        id:
+          type: string
+        user:
+          type: string
+        post:
+          type: string
+        postType:
+          type: string
+          enum: [product_review, vendor_review, auto_review]
+        value:
+          type: number
+        comment:
+          type: string
+        metadata:
+          type: object
+      example:
+          product: 5ebac534954b54139806c112
+          user: 5ebac534954b54139806c112
+          vendor: 5ebac534954b54139806c112
+          type: vendor_review
+          value: 4
+          comment: Very kind vendor
+
+    Like:
+      type: object
+      properties:
+        id:
+          type: string
+        user:
+          type: string
+        post:
+          type: string
+        postType:
+          type: string
+          enum: [product_review, vendor_review, auto_review]
+        value:
+          type: number
+        comment:
+          type: string
+        metadata:
+          type: object
+      example:
+          product: 5ebac534954b54139806c112
+          user: 5ebac534954b54139806c112
+          vendor: 5ebac534954b54139806c112
+          type: vendor_review
+          value: 4
+          comment: Very kind vendor
+
+    Favourite:
+      type: object
+      properties:
+        id:
+          type: string
+        user:
+          type: string
+        product:
+          type: string
+      example:
+        id: 5ebac534954b54139806c112
+        user: 5ebac534954b54139806c113
+        product: 5ebac534954b54139806c114
+
+    Newsletter:
+      type: object
+      properties:
+        email:
+          type: string
+          format: email
+      example:
+        email: saadlouatiii@gmail.com
+
+    Notification:
+      type: object
+      properties:
+        title:
+          type: string
+        content:
+          type: string
+        receiver:
+          type: string
+        sender:
+          type: string
+        url:
+          type: string
+        status:
+          type: string
+          enum: [is_seen, is_sent]
+      example:
+        title: Review 3.5 pour votre produit
+        content: Anim nisi non nisi voluptate dolor minim amet.
+        receiver: 15rf65zrezr6r4fr4r
+        sender: r8fe56rf56r56r5f6
+        url: https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox
+        status: is_sent
+
+    Chat:
+      type: object
+      properties:
+        message:
+          type: string
+        product:
+          type: string
+        receiver:
+          type: string
+        sender:
+          type: string
+        status:
+          type: string
+          enum: [is_seen, is_sent]
+      example:
+        product: e6fr8zer8g48gt8gzz12f
+        message: Anim nisi non nisi voluptate dolor minim amet.
+        receiver: 15rf65zrezr6r4fr4r
+        sender: r8fe56rf56r56r5f6
+        status: is_sent
+
+    Token:
+      type: object
+      properties:
+        token:
+          type: string
+        expires:
+          type: string
+          format: date-time
+      example:
+        token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1ZWJhYzUzNDk1NGI1NDEzOTgwNmMxMTIiLCJpYXQiOjE1ODkyOTg0ODQsImV4cCI6MTU4OTMwMDI4NH0.m1U63blB0MLej_WfB7yC2FTMnCziif9X8yzwDEfJXAg
+        expires: 2020-05-12T16:18:04.793Z
+
+    AuthTokens:
+      type: object
+      properties:
+        access:
+          $ref: '#/components/schemas/Token'
+        refresh:
+          $ref: '#/components/schemas/Token'
+
+    Error:
+      type: object
+      properties:
+        code:
+          type: number
+        message:
+          type: string
+
+  responses:
+    DuplicateEmail:
+      description: Adresse e-mail déjà prise
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/Error'
+          example:
+            code: 400
+            message: Adresse e-mail déjà prise
+    Unauthorized:
+      description: Unauthorized
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/Error'
+          example:
+            code: 401
+            message: Veuillez vous authentifier
+    Forbidden:
+      description: Forbidden
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/Error'
+          example:
+            code: 403
+            message: Forbidden
+    NotFound:
+      description: Not found
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/Error'
+          example:
+            code: 404
+            message: Not found
+
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT
