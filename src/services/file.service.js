@@ -15,7 +15,7 @@ try {
   console.warn('pdf-img-convert not available - PDF conversion disabled');
 }
 
-const S3 = require('aws-sdk/clients/s3');
+const { S3Client, PutObjectCommand } = require('@aws-sdk/client-s3');
 const { default: axios } = require('axios');
 
 const bucketName = process.env.AWS_BUCKET_NAME;
@@ -23,9 +23,12 @@ const accessKeyId = process.env.AWS_ACCESS_KEY_ID;
 const secretAccessKey = process.env.AWS_SECRET_ACCESS_KEY;
 const unlinkFile = util.promisify(fs.unlink);
 
-const s3 = new S3({
-  accessKeyId,
-  secretAccessKey,
+const s3Client = new S3Client({
+  credentials: {
+    accessKeyId,
+    secretAccessKey,
+  },
+  region: process.env.AWS_REGION || 'us-east-1',
 });
 
 // UPLOAD FILE TO S3
@@ -38,7 +41,13 @@ async function uploadFile(file, key) {
     Key: file.filename || key,
   };
 
-  return s3.upload(uploadParams).promise();
+  const command = new PutObjectCommand(uploadParams);
+  await s3Client.send(command);
+  
+  // Return the URL for compatibility
+  return {
+    Location: `https://${bucketName}.s3.amazonaws.com/${file.filename || key}`
+  };
 }
 
 // DOWNLOAD FILE FROM S3

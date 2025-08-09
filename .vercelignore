@@ -28,6 +28,13 @@ public/images/
 .prettier*
 src/scripts/
 src/crons/
+DEPLOY_NOW.md
+VERCEL_DEPLOYMENT.md
+DEPLOYMENT_CHECKLIST.md
+server-local.js
+vercel-scripts.json
+src/scripts/
+src/crons/
 src/data/
 server-local.js
 vercel-scripts.json
