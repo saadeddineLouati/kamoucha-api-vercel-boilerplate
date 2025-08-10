@@ -1,18 +1,12 @@
 const express = require('express');
 const cors = require('cors');
-const helmet = require('helmet');
-const compression = require('compression');
 const mongoose = require('mongoose');
 require('dotenv').config();
 
 const app = express();
 
-// Security middleware
-app.use(helmet());
+// Basic middleware
 app.use(cors());
-app.use(compression());
-
-// Parse JSON
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
