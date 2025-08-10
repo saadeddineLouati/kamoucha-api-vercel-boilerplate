@@ -7,14 +7,6 @@ require('dotenv').config();
 const fs = require('fs');
 const util = require('util');
 
-// Optional PDF conversion - only load if available (avoids canvas issues in serverless)
-let pdf2img = null;
-try {
-  pdf2img = require('pdf-img-convert');
-} catch (error) {
-  console.warn('pdf-img-convert not available - PDF conversion disabled');
-}
-
 const { S3Client, PutObjectCommand } = require('@aws-sdk/client-s3');
 const { default: axios } = require('axios');
 
@@ -43,7 +35,7 @@ async function uploadFile(file, key) {
 
   const command = new PutObjectCommand(uploadParams);
   await s3Client.send(command);
-  
+
   // Return the URL for compatibility
   return {
     Location: `https://${bucketName}.s3.amazonaws.com/${file.filename || key}`
@@ -97,11 +89,18 @@ async function uploadImageFromUrl(imageUrl) {
 }
 
 async function pdfToImages(url, label = '') {
+  // Optional PDF conversion - only load if available (avoids canvas issues in serverless)
+  let pdf2img = null;
+  try {
+    pdf2img = require('pdf-img-convert');
+  } catch (error) {
+    console.warn('pdf-img-convert not available - PDF conversion disabled');
+  }
   try {
     if (!pdf2img) {
       throw new Error('PDF conversion not available - pdf-img-convert module not loaded');
     }
-    
+
     const outputImages1 = await pdf2img.convert(url);
     const outputDir = './out/';
     const imageName = `${label}-`;
