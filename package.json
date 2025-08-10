@@ -2,13 +2,13 @@
   "name": "kamoucha-api",
   "version": "1.0.0",
   "description": "Kamoucha API for Vercel",
-  "main": "api/index.js",
+  "main": "api/minimal.js",
   "engines": {
-    "node": "18.x"
+    "node": "22.x"
   },
   "scripts": {
-    "start": "node api/index.js",
-    "dev": "node api/index.js",
+    "start": "node api/minimal.js",
+    "dev": "node api/minimal.js",
     "build": "echo 'Build completed'",
     "vercel-build": "echo 'Vercel build completed'"
   },
